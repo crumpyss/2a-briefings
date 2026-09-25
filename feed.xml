@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Crump News – 2A Briefings</title>
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2026 15:31:43 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:56:03 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
+      <title>John Crump News – 2A Briefings</title>
+      <link>https://youtube.com/johncrumpnews</link>
+      <width>144</width>
+      <height>76</height>
+    </image>
     <item>
       <title>2A Briefings feed launched</title>
       <link>https://youtube.com/johncrumpnews</link>
-      <description><![CDATA[This feed carries John Crump's material 2A alerts as they break and the daily digest, with primary sources linked.]]></description>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
+This feed carries John Crump's material 2A alerts as they break and the daily digest, with primary sources linked.]]></description>
       <pubDate>Fri, 25 Sep 2026 15:06:57 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260925T150657-2a-briefings-feed-launched</guid>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
     </item>
     <item>
       <title>Daily 2A digest — Fri Sep 25: material already briefed (Novotny Rescheduled); no further change</title>
       <link>https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<div class="briefing">
 Daily 2A digest — Friday, Sep 25, 2026 (ET)<br>
 Coverage window: since Thu Sep 24 ~8:28 AM ET emailed digest<br>
 Verified / factual only — not advocacy.<br>
@@ -73,11 +85,15 @@ Factual digest only — not advocacy. Source links above.
       <pubDate>Fri, 25 Sep 2026 08:19:04 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260925T081904-daily-2a-digest-fri-sep-25-material-already-briefed-novotny</guid>
       <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
     </item>
     <item>
       <title>2A breaking — SCOTUS Novotny 25-1324 Rescheduled (off Conf 9/28)</title>
       <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" alt="Maryland State House, Annapolis" width="1200" height="630"></p>
+<div class="briefing">
 2A breaking update — Thursday, Sep 24, 2026 ~6:35 PM ET<br>
 Verified — SCOTUS public docket. Factual only; not advocacy.<br>
 <br>
@@ -106,11 +122,15 @@ Verified vs unverified: Rescheduled entry and last-modified are verified on the 
       <pubDate>Thu, 24 Sep 2026 18:37:00 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260924T183700-2a-breaking-scotus-novotny-25-1324-rescheduled-off-conf-9-28</guid>
       <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" type="image/jpeg" length="171946"/>
     </item>
     <item>
       <title>Daily 2A digest — Thu Sep 24: no material change</title>
       <link>https://www.supremecourt.gov/orders/ordersofthecourt/25</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<div class="briefing">
 Daily 2A digest — Thursday, Sep 24, 2026 (ET)<br>
 Coverage window: since Wed Sep 23 ~8:43 AM ET emailed digest<br>
 Verified / factual only — not advocacy.<br>
@@ -158,11 +178,15 @@ Factual digest only — not advocacy. Source links above.
       <pubDate>Thu, 24 Sep 2026 08:27:56 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260924T082756-daily-2a-digest-thu-sep-24-no-material-change</guid>
       <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
     </item>
     <item>
       <title>2A Digests (Wed Sep 23) — MATERIAL since prior digest: Yukutake en banc (already emailed 9/22); no further overnight change</title>
       <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/22/21-16756.pdf</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" alt="James R. Browning U.S. Court of Appeals Building, San Francisco — home of the Ninth Circuit" width="1200" height="630"></p>
+<div class="briefing">
 STATUS: MATERIAL_NEW since the Tue Sep 22 ~8:30 AM ET emailed digest. The material item (Ninth Circuit en banc Yukutake) was already emailed as breaking on Sep 22. No additional material overnight (weekday research through ~8:20 AM ET today).<br>
 <br>
 === NEW SINCE PRIOR MORNING DIGEST (already briefed/emailed Sep 22) ===<br>
@@ -207,11 +231,15 @@ Factual digest only — not advocacy. Source links above.
       <pubDate>Wed, 23 Sep 2026 08:43:06 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260923T084306-2a-digests-wed-sep-23-material-since-prior-digest-yukutake-e</guid>
       <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" type="image/jpeg" length="133963"/>
     </item>
     <item>
       <title>2A alert: 9th Cir. en banc reverses Hawaii gun-permit win (Yukutake v. Lopez) — upholds 30-day buy window + inspection under Bruen n.9</title>
       <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/22/21-16756.pdf</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/hi-state-capitol.jpg" alt="Hawaii State Capitol, Honolulu" width="1200" height="630"></p>
+<div class="briefing">
 2A alert (~1:46 PM ET Tue Sep 22):<br>
 <br>
 Yukutake v. Lopez — Ninth Circuit en banc reverses Hawaii firearm-permit injunction.<br>
@@ -239,11 +267,15 @@ Primary source:<br>
       <pubDate>Tue, 22 Sep 2026 13:46:36 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260922T134636-2a-alert-9th-cir-en-banc-reverses-hawaii-gun-permit-win-yuku</guid>
       <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/hi-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/hi-state-capitol.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/hi-state-capitol.jpg" type="image/jpeg" length="188115"/>
     </item>
     <item>
       <title>Daily 2A digest — Tue Sep 22: material already briefed (Glock/NSSF CT suits); no further change</title>
       <link>https://www.ammoland.com/wp-content/uploads/2026/09/Glock-v-Griffin-complaint.pdf</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" alt="Connecticut State Capitol, Hartford" width="1200" height="630"></p>
+<div class="briefing">
 Daily 2A digest — Tuesday, September 22, 2026 (ET)<br>
 Coverage window: since Mon Sep 21 ~8:20 AM ET emailed digest<br>
 Verified / factual only — not advocacy.<br>
@@ -274,11 +306,15 @@ LIVE WATCH / DEADLINES (background — not new):<br>
       <pubDate>Tue, 22 Sep 2026 08:28:52 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260922T082852-daily-2a-digest-tue-sep-22-material-already-briefed-glock-ns</guid>
       <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" type="image/jpeg" length="181988"/>
     </item>
     <item>
       <title>2A morning digest — Tue Sep 22: Glock + NSSF sue Connecticut over HB 5043 convertible-pistol ban</title>
       <link>https://www.ammoland.com/wp-content/uploads/2026/09/Glock-v-Griffin-complaint.pdf</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" alt="Connecticut State Capitol, Hartford" width="1200" height="630"></p>
+<div class="briefing">
 2A morning digest — Tuesday, September 22, 2026 (ET)<br>
 Window: overnight / prior day (Mon Sep 21 evening – Tue morning ET)<br>
 Verified / factual only — not advocacy.<br>
@@ -315,11 +351,15 @@ Checked — no material change vs baseline<br>
       <pubDate>Tue, 22 Sep 2026 08:13:15 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260922T081315-2a-morning-digest-tue-sep-22-glock-nssf-sue-connecticut-over</guid>
       <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" type="image/jpeg" length="181988"/>
     </item>
     <item>
       <title>2A breaking: 5th Cir. strikes federal interstate handgun purchase ban; Cordova en banc set Jan 2027</title>
       <link>https://www.ca5.uscourts.gov/opinions/pub/25/25-11206-CV0.pdf</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" alt="John Minor Wisdom U.S. Court of Appeals Building, New Orleans — home of the Fifth Circuit" width="1200" height="630"></p>
+<div class="briefing">
 2A Watch — material update (Mon Sep 21, 2026 ~6:40 PM ET)<br>
 Verified / factual only — not advocacy.<br>
 <br>
@@ -341,11 +381,15 @@ Unchanged this pass (brief): No new SCOTUS order lists Sep 18–21; Johnson 26-2
       <pubDate>Mon, 21 Sep 2026 18:42:08 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260921T184208-2a-breaking-5th-cir-strikes-federal-interstate-handgun-purch</guid>
       <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" type="image/jpeg" length="202738"/>
     </item>
     <item>
       <title>Daily 2A digest — Mon Sep 21: no material change</title>
       <link>https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-255.html</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<div class="briefing">
 Daily 2A digest — Monday, Sep 21, 2026 (ET)<br>
 Coverage window: since Sun Sep 20 ~8:17 AM ET emailed digest<br>
 <br>
@@ -384,11 +428,15 @@ Already briefed earlier (not re-litigating): Elite Precision (5th Cir. out-of-st
       <pubDate>Mon, 21 Sep 2026 08:20:00 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260921T082000-daily-2a-digest-mon-sep-21-no-material-change</guid>
       <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
     </item>
     <item>
       <title>2A watch: Fifth Circuit sets Cordova en banc for January 2027</title>
       <link>https://www.ca5.uscourts.gov/news/en-banc-session</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" alt="John Minor Wisdom U.S. Court of Appeals Building, New Orleans — home of the Fifth Circuit" width="1200" height="630"></p>
+<div class="briefing">
 2A breaking watch — Sun Sep 20, 2026 ~1:30 PM ET<br>
 <br>
 WHAT’S NEW (verified)<br>
@@ -413,11 +461,15 @@ Factual briefing only — not advocacy.
       <pubDate>Sun, 20 Sep 2026 13:30:48 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260920T133048-2a-watch-fifth-circuit-sets-cordova-en-banc-for-january-2027</guid>
       <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" type="image/jpeg" length="202738"/>
     </item>
     <item>
       <title>2A morning digest — Sun Sep 20: no material change</title>
       <link>https://www.federalregister.gov/documents/2026/08/20/2026-16981</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
+<div class="briefing">
 2A morning digest — Sunday, Sep 20, 2026 (ET)<br>
 Window: since Sat Sep 19 ~8:07 AM ET emailed digest<br>
 <br>
@@ -450,11 +502,15 @@ Factual only — not advocacy. Flag what is new vs background; sources linked ab
       <pubDate>Sun, 20 Sep 2026 08:18:47 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260920T081847-2a-morning-digest-sun-sep-20-no-material-change</guid>
       <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
     </item>
     <item>
       <title>Daily 2A digest — Sat Sep 19, 2026 (no material change)</title>
       <link>https://www.ca5.uscourts.gov/opinions/pub/25/25-11206-CV0.pdf</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" alt="John Minor Wisdom U.S. Court of Appeals Building, New Orleans — home of the Fifth Circuit" width="1200" height="630"></p>
+<div class="briefing">
 Daily 2A digest — Saturday, September 19, 2026 (ET)<br>
 Baseline: Friday, September 18 ~8:13 AM ET emailed digest<br>
 <br>
@@ -483,11 +539,15 @@ Checked: SCOTUS order PDFs + Johnson/Novotny dockets; CA LegInfo; Federal Regist
       <pubDate>Sat, 19 Sep 2026 08:17:35 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260919T081735-daily-2a-digest-sat-sep-19-2026-no-material-change</guid>
       <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" type="image/jpeg" length="202738"/>
     </item>
     <item>
       <title>2A alert: 5th Cir. strikes federal interstate handgun purchase ban (Elite Precision Customs v. ATF, 2–1, Sep 18)</title>
       <link>https://assets.nationbuilder.com/firearmspolicycoalition/pages/10076/attachments/original/1789762991/2026.09.18_083-1_OPINION.pdf?1789762991</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" alt="John Minor Wisdom U.S. Court of Appeals Building, New Orleans — home of the Fifth Circuit" width="1200" height="630"></p>
+<div class="briefing">
 2A alert (~5:27 PM ET Fri Sep 18):<br>
 <br>
 Elite Precision Customs v. ATF — Fifth Circuit strikes federal interstate handgun purchase ban.<br>
@@ -517,11 +577,15 @@ Sources:<br>
       <pubDate>Fri, 18 Sep 2026 17:27:14 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260918T172714-2a-alert-5th-cir-strikes-federal-interstate-handgun-purchase</guid>
       <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" type="image/jpeg" length="202738"/>
     </item>
     <item>
       <title>2A alert: Christian v. James — SCOTUS cert petition on NY public-parks carry ban (not granted; no docket # yet)</title>
       <link>https://saf.org/wp-content/uploads/2026/09/Christian-cert-petition_9.16.26.pdf</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" alt="New York State Capitol, Albany" width="1200" height="630"></p>
+<div class="briefing">
 2A catch-up (~2:45 PM ET Fri Sep 18):<br>
 <br>
 Christian v. James — Supreme Court cert petition (New York public-parks carry ban).<br>
@@ -543,11 +607,15 @@ Sources:<br>
       <pubDate>Fri, 18 Sep 2026 14:47:42 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260918T144742-2a-alert-christian-v-james-scotus-cert-petition-on-ny-public</guid>
       <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" type="image/jpeg" length="151413"/>
     </item>
     <item>
       <title>2A alert: OLC says federal 18–20 handgun purchase ban (922(b)(1)/(c)(1)) unconstitutional as applied — dealers may not face criminal penalties</title>
       <link>https://www.justice.gov/olc/media/1461811/dl</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" alt="Seal of the U.S. Department of Justice" width="1200" height="630"></p>
+<div class="briefing">
 2A alert — DOJ Office of Legal Counsel opinion (Sep 17, 2026):<br>
 <br>
 Title: Application of 18 U.S.C. § 922(b)(1) and (c)(1) to Young Adults — Memorandum Opinion for the Attorney General.<br>
@@ -571,11 +639,15 @@ Primary: <a href="https://www.justice.gov/olc/media/1461811/dl">https://www.just
       <pubDate>Fri, 18 Sep 2026 12:18:53 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260918T121853-2a-alert-olc-says-federal-18-20-handgun-purchase-ban-922-b-1</guid>
       <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" type="image/jpeg" length="97941"/>
     </item>
     <item>
       <title>2A Daily Digest — Fri Sep 18, 2026: Trump directs DOJ not to appeal Hendrix NFA injunction (CBS)</title>
       <link>https://www.cbsnews.com/news/trump-doj-gangster-weapons-gun-restrictions-appeal/</link>
-      <description><![CDATA[<div class="briefing">
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/tx-state-seal.jpg" alt="Seal of the State of Texas" width="1200" height="630"></p>
+<div class="briefing">
 2A Daily Digest — Friday, September 18, 2026 (ET)<br>
 Coverage window: since Thu Sep 17 ~8:27 AM ET daily emailed digest (that run was NO_MATERIAL_NEW).<br>
 Factual briefing only — not advocacy. Flag NEW vs BACKGROUND.<br>
@@ -632,6 +704,9 @@ LIVE DEADLINES<br>
       <pubDate>Fri, 18 Sep 2026 08:15:00 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260918T081500-2a-daily-digest-fri-sep-18-2026-trump-directs-doj-not-to-app</guid>
       <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/tx-state-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/tx-state-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/tx-state-seal.jpg" type="image/jpeg" length="81051"/>
     </item>
   </channel>
 </rss>
