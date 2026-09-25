@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Crump News – 2A Briefings</title>
+    <link>https://youtube.com/johncrumpnews</link>
+    <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2026 15:06:57 -0400</lastBuildDate>
+    <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>2A Briefings feed launched</title>
+      <link>https://youtube.com/johncrumpnews</link>
+      <description><![CDATA[This feed carries John Crump's material 2A alerts as they break and the daily digest, with primary sources linked.]]></description>
+      <pubDate>Fri, 25 Sep 2026 15:06:57 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260925T150657-2a-briefings-feed-launched</guid>
+    </item>
+  </channel>
+</rss>
