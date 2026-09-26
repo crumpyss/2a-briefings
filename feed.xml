@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2026 08:15:39 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:28:00 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,26 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>California AB 2047 signed: 3D-printer firearm-blocking law</title>
+      <link>https://www.gov.ca.gov/2026/09/26/governor-newsom-signs-new-bills-to-further-prevent-gun-violence-and-strengthen-californias-gun-safety-leadership/</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca-state-capitol.jpg" alt="California State Capitol, Sacramento" width="1200" height="630"></p>
+<p><strong>California AB 2047 signed (Sat Sep 26, 2026).</strong></p>
+<p>Governor Gavin Newsom’s office published a Sep 26 press release stating he “today signed a package of new gun safety bills,” expressly listing <strong>Assembly Bill 2047</strong> (Bauer-Kahan) — “3-dimensional printing blocking technology” (Firearm Printing Prevention Act).</p>
+<p><strong>Why it matters:</strong> This moves the watched major-state firearms bill from enrolled/presented (unsigned) to signed. Per the bill’s framework, after related DOJ/ASTM standards work, consumer 3D printers sold in California would be required to incorporate firearm-blocking technology; sale/offer/transfer of noncompliant printers would become unlawful once those standards take effect.</p>
+<p><strong>Verified:</strong> Governor’s Office release (primary). <strong>Caveat:</strong> As of this check, LegInfo still showed Active Bill – Enrolled / House Location: Governor, last history “09/14/26 Enrolled and presented to the Governor” — chaptered status often lags the Governor’s announcement.</p>
+<p>The same release also lists other firearms-related bills signed the same day: AB 1743, AB 1753, AB 1943, AB 1974, AB 2339, AB 2378, AB 2636, SB 948, SB 1220.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.gov.ca.gov/2026/09/26/governor-newsom-signs-new-bills-to-further-prevent-gun-violence-and-strengthen-californias-gun-safety-leadership/">Governor of California press release (Sep 26, 2026)</a></li>
+<li><a href="https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2047">California LegInfo — AB 2047 status</a></li>]]></description>
+      <pubDate>Sat, 26 Sep 2026 15:28:00 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260926T152800-california-ab-2047-signed-3d-printer-firearm-blocking-law</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca-state-capitol.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca-state-capitol.jpg" type="image/jpeg" length="92207"/>
+    </item>
     <item>
       <title>2A Daily Digest – Sep 26, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
