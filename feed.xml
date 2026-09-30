@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 17:58:02 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:32:39 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,25 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>D. Conn. enters operative PI order (ECF 32) in Glock v. Griffin — CT HB 5043</title>
+      <link>https://www.courtlistener.com/docket/74823996/glock-inc-v-griffin/</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" alt="Connecticut State Capitol, Hartford" width="1200" height="630"></p>
+<p><strong>Verified:</strong> On Sept. 30, 2026, U.S. District Judge Kari A. Dooley (D. Conn.) entered the separate operative <strong>Preliminary Injunction</strong> in <em>Glock, Inc. v. Griffin</em>, No. 3:26-cv-01525 (KAD), as <strong>ECF 32</strong>: “INJUNCTION. See attached. Signed by Judge Kari A. Dooley on 9/30/2026.” Docket label: Preliminary Injunction.</p>
+<p>This follows the already-reported ECF 31 memorandum/opinion granting plaintiffs’ emergency PI motion on the Second Amendment claim only (and the companion NSSF ruling). ECF 31’s conclusion stated that “A separate Order shall enter.” ECF 32 is that operative injunction, entered the day before Connecticut HB 5043 / Pub. Act 26-41’s Oct. 1, 2026 effective date.</p>
+<p><strong>Why it matters:</strong> The memorandum grant is now a formal operative injunction against enforcement of the convertible-pistol sale ban ahead of the effective date.</p>
+<p><strong>Caveats (verified vs unverified):</strong> The CourtListener docket entry for ECF 32 is verified. The RECAP PDF text of ECF 32 was not yet available when this alert was written, so the exact injunctive terms (who is bound, scope, any carve-outs) are <strong>unverified</strong> pending the PDF. No notice of appeal or stay motion was found. SlimLine/Series VI coverage was not decided in ECF 31 (fn. 4) and is not resolved by the docket label alone.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li>CourtListener docket (Glock; entries 31–32): <a href="https://www.courtlistener.com/docket/74823996/glock-inc-v-griffin/">https://www.courtlistener.com/docket/74823996/glock-inc-v-griffin/</a></li>
+<li>ECF 31 memorandum/opinion (already briefed): <a href="https://storage.courtlistener.com/recap/gov.uscourts.ctd.173033/gov.uscourts.ctd.173033.31.0.pdf">https://storage.courtlistener.com/recap/gov.uscourts.ctd.173033/gov.uscourts.ctd.173033.31.0.pdf</a></li>]]></description>
+      <pubDate>Wed, 30 Sep 2026 18:32:38 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260930T183238-d-conn-enters-operative-pi-order-ecf-32-in-glock-v-griffin-c</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ct-state-capitol.jpg" type="image/jpeg" length="181988"/>
+    </item>
     <item>
       <title>Judge grants preliminary injunction against Connecticut HB 5043 convertible-pistol ban (Glock, NSSF)</title>
       <link>https://storage.courtlistener.com/recap/gov.uscourts.ctd.173033/gov.uscourts.ctd.173033.31.0.pdf</link>
