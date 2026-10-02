@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 08:14:37 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:45:31 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,24 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>NJ asks SCOTUS to hold AWB/mag ban case pending Viramontes</title>
+      <link>https://assets.nationbuilder.com/firearmspolicycoalition/pages/6504/attachments/original/1790955853/2026.10.01_Cert_Petition.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>What is new:</strong> New Jersey Attorney General Jennifer Davenport filed a petition for a writ of certiorari dated Oct. 1, 2026 in <em>Davenport v. Association of New Jersey Rifle and Pistol Clubs</em> (with related Cheeseman plaintiffs), seeking Supreme Court review of the Third Circuit’s July 17, 2026 en banc judgment (Nos. 24-2415, 24-2450, 24-250) that invalidated New Jersey’s semi-automatic “assault firearm” and large-capacity magazine restrictions.</p>
+<p><strong>Why it matters:</strong> The state asks the Court to hold both questions presented pending <em>Viramontes v. Cook County</em> (No. 25-238) and <em>Grant v. Higgins</em> (No. 25-566) (set for argument Dec. 2, 2026), then, if appropriate, grant, vacate, and remand in light of that decision—the same hold/GVR path used for other AWB/LCM petitions. The Third Circuit stayed its mandate on Aug. 4, 2026 pending cert (deadline had been Oct. 15), so New Jersey’s bans remain enforceable under that stay until further order.</p>
+<p><strong>Verified:</strong> Oct. 1, 2026 petition PDF (face caption “No. 26-___”). <strong>Unverified / pending:</strong> public SCOTUS docket number—not yet located among Oct. 1–2, 2026 docket entries on supremecourt.gov as of this alert.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://assets.nationbuilder.com/firearmspolicycoalition/pages/6504/attachments/original/1790955853/2026.10.01_Cert_Petition.pdf">NJ AG cert petition PDF (Oct. 1, 2026)</a></li>
+<li><a href="https://dailycaller.com/2026/10/02/blue-state-appeals-ruling-that-shot-down-semi-auto-gun-ban/">Daily Caller report (Oct. 2, 2026, 2:59 p.m. ET)</a> (secondary)</li>]]></description>
+      <pubDate>Fri, 02 Oct 2026 15:45:31 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261002T154531-nj-asks-scotus-to-hold-awb-mag-ban-case-pending-viramontes</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 2, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
