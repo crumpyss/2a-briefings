@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 08:12:40 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:33:22 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,29 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ formally confirms no appeal of N.D. Tex. NFA ruling (Silencer Shop v. ATF)</title>
+      <link>https://saf.org/wp-content/uploads/2026/10/2026.10.01_145_Ds_Motion_for_Extension.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" alt="Seal of the U.S. Department of Justice" width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong></p>
+<p><strong>DOJ formally confirms it will not appeal the N.D. Tex. NFA ruling (Silencer Shop Foundation v. ATF)</strong></p>
+<p><strong>What's new (verified, court filing):</strong> In a filing docketed Thu Oct 1, 2026 (ECF 145, <em>Silencer Shop Foundation v. ATF</em>, N.D. Tex. No. 6:25-cv-56-H), DOJ attached a Sept. 24, 2026 letter from Solicitor General D. John Sauer to Congress under 28 U.S.C. § 530D stating "that the Department of Justice has determined not to file an appeal in this case." The letter gives no reasoning. This is the formal follow-through on the CBS report of Sept. 17 that President Trump directed DOJ not to appeal (briefed Sept. 18). Until now that was only a report of intent; it's now on the docket.</p>
+<p><strong>Also in the same filing:</strong> DOJ says ATF "is currently working to finalize public guidance regarding the NFA." DOJ asked for a 10-day extension (from Oct. 2) to respond to a motion by nine state plaintiffs asking Judge Hendrix to clarify (1) whether the injunction applies statewide to all relevant transfers in those states and (2) whether ATF must notify or identify covered people. The states oppose the extension. No ruling on the extension was found in this check.</p>
+<p><strong>Why it matters:</strong> The Aug. 5, 2026 final judgment (ECF 136–137) permanently bars enforcement of NFA registration/approval requirements for short-barreled rifles and shotguns, suppressors, and "any other weapons" as to the plaintiffs, their members, and their customers. It is party-limited, not nationwide, and machine guns aren't affected. The government's 60-day appeal window closes Monday, Oct. 5, 2026. The rules still let the court extend that deadline for excusable neglect or good cause, but DOJ has now said in writing that it won't appeal. Still open: the scope question the states raised and ATF's promised guidance.</p>
+<p><strong>Timing note:</strong> The filing has been public since Oct. 1 and AmmoLand reported it. The watch didn't flag it earlier, so it's being briefed now, ahead of the Oct. 5 deadline.</p>
+<p><strong>Sources:</strong><br>
+<a href="https://saf.org/wp-content/uploads/2026/10/2026.10.01_145_Ds_Motion_for_Extension.pdf">DOJ motion to extend briefing deadline, ECF 145 (filed Oct. 1, 2026)</a><br>
+<a href="https://www.ammoland.com/2026/10/doj-confirms-it-wont-appeal-nfa-ruling-on-suppressors-and-short-barreled-guns/">AmmoLand: DOJ confirms it won't appeal NFA ruling</a><br>
+<a href="https://thereload.com/members-newsletter-is-the-nfa-injunction-permanent-now/">The Reload (Oct. 4): Is the NFA injunction permanent now?</a><br>
+<a href="https://www.wiley.law/assets/htmldocuments/Silencer%20Shop%20Found.%20v.%20Bureau%20of%20Alcohol%20Tobacco%20Firearms%20and%20Explosives%20Memorandum%20Opinion%20and%20Order.pdf">Aug. 5, 2026 memorandum opinion and order (Judge Hendrix)</a></p>
+<p><strong>Video hook:</strong> "It's official: DOJ tells Congress it won't appeal the NFA ruling. Here's who's covered, and what's still unresolved before ATF's guidance lands."</p>]]></description>
+      <pubDate>Sun, 04 Oct 2026 18:33:21 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261004T183321-doj-formally-confirms-no-appeal-of-n-d-tex-nfa-ruling-silenc</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" type="image/jpeg" length="97941"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 4, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
