@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 18:33:22 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:18:57 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,26 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>2A Daily Digest – Oct 05, 2026</title>
+      <link>https://youtube.com/johncrumpnews</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>No material change</strong> since the Oct 4 digest (checked through ~8:17 AM ET Mon Oct 5). The DOJ no-appeal confirmation in Silencer Shop v. ATF was covered in the Oct 4 evening alert.</p>
+<p><strong>Live deadlines and watch items (background, not new):</strong></p>
+<ul>
+<li><strong>SCOTUS Long Conference order list, today (~9:30 AM ET).</strong> Not yet posted as of ~8:17 AM ET. Roughly 57 gun-related petitions were conferenced, including Johnson (26-255), Novotny (25-1324), the Duncan/Gator/NAGR magazine cases and Beckwith v. Frey (26-258). Separately, Johnson v. US (26-270, felon-in-possession/marijuana conviction) is set for the Oct 9 conference. <a href="https://www.supremecourt.gov/orders/courtorders/100526zor.pdf">Order list (when posted)</a> · <a href="https://www.supremecourt.gov/orders/ordersofthecourt/26">Orders of the Court</a></li>
+<li><strong>Silencer Shop Foundation v. ATF (N.D. Tex. 6:25-cv-00056): appeal window closes today.</strong> No notice of appeal from any party on the docket as of early Monday; intervenor defendants (Harris County, Baltimore, Columbus) remain parties. DOJ's response to the states' clarification motion (ECF 144) is due Oct 12 (ECF 146). ATF's post-ruling NFA guidance has not been posted. <a href="https://www.pacermonitor.com/public/case/58872813/Silencer_Shop_Foundation_et_al_v_Bureau_of_Alcohol,_Tobacco,_Firearms_and_Explosives_et_al">Docket</a> · <a href="https://saf.org/wp-content/uploads/2026/10/2026.10.01_145_Ds_Motion_for_Extension.pdf">DOJ extension motion</a></li>
+<li><strong>US v. Montgomery County (D. Md. 8:26-cv-03025).</strong> PI motion and motion to dismiss argued Oct 1; no ruling yet. The case remains live (DOJ earlier dismissed only the Sheriff's Office as a defendant). <a href="https://www.pacermonitor.com/public/case/66046762/United_States_of_America_v_Montgomery_County%2C_Maryland_et_al">Docket</a></li>
+<li><strong>Bathras v. Moore (D. Md. 1:26-cv-02074, Maryland Glock-style ban).</strong> Written order after the Sept 25 bench denial still not entered; SB 334 takes effect Jan 1, 2027. <a href="https://www.pacermonitor.com/public/case/64848445/Bathras_et_al_v_Moore_et_al">Docket</a></li>
+</ul>
+<p><strong>Minor/background:</strong> E.D. Ark. held Oct 1 that federal railroad law does not preempt Arkansas's guns-in-locked-cars law (<a href="https://www.courthousenews.com/guns-in-the-car/">Courthouse News</a>); Portland City Council is considering barring concealed firearms in some city buildings (<a href="https://www.kptv.com/2026/10/05/portland-city-council-consider-banning-concealed-firearms-some-city-buildings/">KPTV</a>).</p>]]></description>
+      <pubDate>Mon, 05 Oct 2026 08:18:57 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261005T081857-2a-daily-digest-oct-05-2026</guid>
+      <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>DOJ formally confirms no appeal of N.D. Tex. NFA ruling (Silencer Shop v. ATF)</title>
       <link>https://saf.org/wp-content/uploads/2026/10/2026.10.01_145_Ds_Motion_for_Extension.pdf</link>
