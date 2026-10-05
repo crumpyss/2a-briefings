@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 08:18:57 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:39:48 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,24 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>SCOTUS denies Minnesota carry-reciprocity case (Johnson v. Jacobson); Novotny, Duncan magazine petitions still pending</title>
+      <link>https://www.supremecourt.gov/orders/courtorders/100526zor_2a34.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong></p>
+<p><strong>What's new (verified):</strong> In its Monday, Oct. 5, 2026 order list (first orders after the Sept. 28 Long Conference), the U.S. Supreme Court <strong>denied certiorari in Johnson v. Jacobson, No. 26-255</strong>, the Liberty Justice Center petition challenging Minnesota's carry-permit reciprocity rules. No justice noted a dissent or wrote a statement on the denial. The Eighth Circuit decision (McCoy and Johnson v. Jacobson, No. 25-3036, judgment May 26, 2026) against the challengers stands.</p>
+<p><strong>Questions the petition asked:</strong> (1) whether Americans must obtain a firearm license from each state to exercise Second Amendment rights across the nation; (2) whether state reciprocity statutes that don't recognize every other state's license are valid under Bruen. Minnesota waived its response; the Second Amendment Foundation and others filed amicus briefs.</p>
+<p><strong>Not acted on (still pending, verified by absence from the order list):</strong> Novotny v. Moore, No. 25-1324 (Maryland carry restrictions, rescheduled Sept. 24); Duncan v. Bonta, No. 25-198 (California magazine ban); Gator's Custom Guns, No. 25-153; and NAGR v. Lamont, No. 25-421. No new 2A grants. Viramontes/Grant remain set for argument Dec. 2.</p>
+<p><strong>Why it matters:</strong> The Court won't take up nationwide carry reciprocity this term through this vehicle, leaving state-by-state permit recognition in place. The bigger magazine and Maryland carry petitions are still alive, likely being relisted or held, so the next order lists matter.</p>
+<p><strong>Background, not new:</strong> The list also contains hundreds of routine denials, likely including several criminal 18 U.S.C. 922(g) Second Amendment petitions; those weren't individually checked.</p>
+<p><strong>Sources:</strong> <a href="https://www.supremecourt.gov/orders/courtorders/100526zor_2a34.pdf">SCOTUS Oct. 5, 2026 order list (PDF)</a> · <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-255.html">Docket 26-255, Johnson v. Jacobson</a> · <a href="https://www.supremecourt.gov/DocketPDF/26/26-255/419936/20260824142412427_No.%20%20Petition.pdf">Johnson cert petition (PDF)</a> · <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html">Docket 25-1324, Novotny</a> · <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-198.html">Docket 25-198, Duncan</a></p>]]></description>
+      <pubDate>Mon, 05 Oct 2026 09:39:47 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261005T093947-scotus-denies-minnesota-carry-reciprocity-case-johnson-v-jac</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 05, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
