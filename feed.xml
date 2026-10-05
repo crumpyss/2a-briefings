@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 09:39:48 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:39:15 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,25 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>SCOTUS puts Maryland carry case Novotny v. Moore back on conference list for Oct 9</title>
+      <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong></p>
+<p><strong>What's new (verified):</strong> The Supreme Court docket in <em>Novotny v. Moore</em>, No. 25-1324, has a new entry dated Oct 5, 2026: "DISTRIBUTED for Conference of 10/9/2026." The case had been set for the Sept 28 long conference, then was marked "Rescheduled" on Sept 24 with no new date. Today's entry puts it back on the list for this Friday's conference. The docket page was updated at about 11:27 AM ET.</p>
+<p><strong>Background:</strong> Katherine Novotny and other petitioners are challenging Maryland's 2023 public-carry restrictions, including its sensitive-places provisions. They're asking the Court to review the Fourth Circuit's Jan 20, 2026 decision (Nos. 24-1799, 24-1827, 24-1834, 24-1836). Maryland Gov. Wes Moore is the named respondent.</p>
+<p><strong>Why it matters:</strong> After the Oct 9 conference the justices could grant review, deny it, or relist it again. Being distributed is a scheduling step, not a ruling. Monday, Oct 12 is a federal holiday (Columbus Day), so any order from that conference would most likely post Tuesday, Oct 13. That timing is an expectation, not something the Court has announced. Earlier today the Court denied cert in a separate carry case, <em>Johnson v. Jacobson</em> (26-255, Minnesota permit reciprocity).</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html">SCOTUS docket, No. 25-1324 (Novotny v. Moore)</a></li>
+<li><a href="https://www.supremecourt.gov/DocketPDF/25/25-1324/409354/20260520133220255_25-%20Petition.pdf">Cert petition (PDF)</a></li>]]></description>
+      <pubDate>Mon, 05 Oct 2026 11:39:14 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261005T113914-scotus-puts-maryland-carry-case-novotny-v-moore-back-on-conf</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>SCOTUS denies Minnesota carry-reciprocity case (Johnson v. Jacobson); Novotny, Duncan magazine petitions still pending</title>
       <link>https://www.supremecourt.gov/orders/courtorders/100526zor_2a34.pdf</link>
