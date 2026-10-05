@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 11:39:15 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:29:04 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,27 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ tells Fifth Circuit under-21 handgun case is moot, pledges no enforcement anywhere</title>
+      <link>https://bearingarms.com/camedwards/2026/10/05/trump-doj-tells-court-it-wont-enforce-under-21-handgun-ban-anywhere-n1234032</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" alt="John Minor Wisdom U.S. Court of Appeals Building, New Orleans — home of the Fifth Circuit" width="1200" height="630"></p>
+<p><strong>DOJ tells Fifth Circuit the under-21 handgun case is moot because it won't enforce the ban against anyone, anywhere</strong> (filed Mon Oct 5, 2026).</p>
+<p><strong>What's new:</strong> In <em>FPC v. ATF</em> (formerly <em>Reese v. ATF</em>; 5th Cir. No. 26-30154; W.D. La. No. 6:20-cv-01438), DOJ filed its brief on today's deadline arguing the appeal over the scope of the injunction is moot. DOJ cites the recent Office of Legal Counsel (OLC) opinion concluding the federal ban on licensed-dealer handgun sales to 18–20-year-olds is unconstitutional, and says DOJ "will not enforce the challenged provisions against anyone, anywhere." It argues in the alternative that, if the case isn't moot, the OLC opinion gives no basis to expand the injunction, and that ordinary Article III and equitable limits apply to associational plaintiffs.</p>
+<p><strong>Why it matters:</strong> The district court's injunction covers only FPC and Louisiana Shooting Association members who were members when the suit was filed and who live in the Fifth Circuit. FPC is asking the Fifth Circuit to extend relief to all current and future members, including outside the circuit. DOJ's non-enforcement pledge is a policy position that a future administration could reverse, while a broader injunction would be binding. So the fight is now over how far court-ordered relief reaches, not over whether the ban is constitutional (the Fifth Circuit already held it isn't).</p>
+<p><strong>Verification:</strong> The filing is reported and quoted by Bearing Arms (Cam Edwards, 3:31 PM ET). The primary brief has not been located publicly yet, so treat the quotes as reported, not independently verified.</p>
+<p><strong>Background (already reported):</strong> The OLC opinion holding the federal 18–20 handgun ban unenforceable was briefed in mid-September.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://bearingarms.com/camedwards/2026/10/05/trump-doj-tells-court-it-wont-enforce-under-21-handgun-ban-anywhere-n1234032">Bearing Arms: Trump DOJ tells court it won't enforce under-21 handgun ban anywhere (Oct 5)</a></li>
+<li><a href="https://www.firearmspolicy.org/reese">FPC case page and docket links (FPC v. ATF / Reese v. ATF)</a></li>
+<li><a href="https://www.firearmspolicy.org/fpc-fights-trump-doj-effort-to-gut-landmark-second-amendment-victory">FPC opening brief on scope of relief (June 22, 2026)</a></li>]]></description>
+      <pubDate>Mon, 05 Oct 2026 18:29:03 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261005T182903-doj-tells-fifth-circuit-under-21-handgun-case-is-moot-pledge</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca5-john-minor-wisdom-courthouse.jpg" type="image/jpeg" length="202738"/>
+    </item>
     <item>
       <title>SCOTUS puts Maryland carry case Novotny v. Moore back on conference list for Oct 9</title>
       <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html</link>
