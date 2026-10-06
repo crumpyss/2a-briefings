@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:34:25 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:24:55 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,26 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>SCOTUS reschedules Maryland carry case Novotny v. Moore again, pulling it from the Oct 9 conference</title>
+      <link>https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong></p>
+<p><strong>What's new (verified on the official docket):</strong> The Supreme Court docket for <em>Novotny v. Moore</em>, No. 25-1324 (Maryland public-carry and sensitive-places law, from the Fourth Circuit), added a new entry dated Oct 6, 2026 reading "Rescheduled." That pulls the petition off the Oct 9, 2026 conference, one day after the Court had put it back on that list (Oct 5 entry: "DISTRIBUTED for Conference of 10/9/2026").</p>
+<p><strong>Why it matters:</strong> This is the second time the case has been rescheduled. It was first set for the Sep 28 conference and rescheduled on Sep 24, then redistributed on Oct 5 for Oct 9, and now rescheduled again. A cert decision won't come out of the Oct 9 conference. The Court gives no reason for a reschedule and no new conference date is listed yet. Court watchers often read repeated reschedules as a sign that one or more justices want more time with a case, but that is commentary, not something the Court has said.</p>
+<p><strong>Background (already briefed):</strong> Petitioners are challenging Maryland's post-Bruen carry restrictions. The state filed its brief in opposition Aug 17 and petitioners replied Sep 2.</p>
+<p><strong>What to watch:</strong> a new "DISTRIBUTED for Conference of ..." entry on the docket.</p>
+<p><strong>Sources:</strong><br>
+<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html">SCOTUS docket 25-1324 (Novotny v. Moore)</a><br>
+<a href="https://www.supremecourt.gov/DocketPDF/25/25-1324/419189/20260817060449292_25-1324%20BriefInOpposition.pdf">Maryland brief in opposition (Aug 17)</a><br>
+<a href="https://www.supremecourt.gov/DocketPDF/25/25-1324/422804/20260902141528155_25-1324%20Reply%20Brief.pdf">Petitioners' reply (Sep 2)</a></p>]]></description>
+      <pubDate>Tue, 06 Oct 2026 18:24:54 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261006T182454-scotus-reschedules-maryland-carry-case-novotny-v-moore-again</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>DOJ tells court lawful self-defense carry is allowed in public national park buildings (Zimmerman v. Blanche)</title>
       <link>https://assets.nationbuilder.com/firearmspolicycoalition/pages/16907/attachments/original/1790976112/2026.10.02_022_D's_Memo_ISO_MTD.pdf?1790976112</link>
