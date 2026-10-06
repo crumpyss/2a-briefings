@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 08:18:14 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:33:27 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,30 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Written opinion explains denial of injunction against Maryland Glock ban (Bathras v. Moore)</title>
+      <link>https://bearingarms.com/camedwards/2026/10/06/federal-judge-keeps-marylands-glock-ban-in-place-for-now-n1234035</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" alt="Maryland State House, Annapolis" width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong></p>
+<p><strong>Maryland Glock ban: Judge Bennett's written reasoning in Bathras v. Moore is out (preliminary injunction still denied)</strong></p>
+<p><strong>What's new:</strong> Bearing Arms (Cam Edwards, posted Tue Oct 6 about 10:29 AM ET) quotes U.S. District Judge Richard D. Bennett's written decision explaining his Sep 25 bench denial of a preliminary injunction against Maryland SB 334 in <em>Bathras v. Moore</em> (D. Md. No. 1:26-cv-02074-RDB, consolidated with <em>Duffy v. Moore</em>, No. 1:26-cv-02647-RDB). As quoted, Bennett assumed the law implicates the Second Amendment's plain text, then held Maryland carried its historical burden because SB 334 is "consistent with restrictions on excessively dangerous weapons which have been regulated in response to their criminal misuse and lethality." He called the law "a commensurate response" to technological advances and "today's unrelenting tide of mass shootings and gun violence," applied the Fourth Circuit's "nuanced approach" from the Maryland assault-weapons case (<em>Bianchi</em>), and, per the report, accepted essentially all of the state's analogues (gunpowder storage laws, Bowie knife restrictions, 20th-century short-barreled firearm rules).</p>
+<p><strong>Why it matters:</strong> This is the first written explanation of the ruling, and it is the order plaintiffs (SAF, FPC, NRA, Atlantic Guns, Maryland Shall Issue and others) would take to the Fourth Circuit. It reaches the opposite result from the Sep 30 D. Conn. preliminary injunction against Connecticut's similar "convertible pistol" law (<em>Glock v. Griffin</em>), so two district courts now disagree on these bans. SB 334 bars manufacture, sale, purchase, receipt and transfer of covered pistols starting Jan 1, 2027; pistols already owned are grandfathered. Both rulings are preliminary, not final merits judgments.</p>
+<p><strong>Verified vs. unverified:</strong> Verified: Bearing Arms published direct quotes from the written decision today. Not independently verified: the docket entry number and exact filing date of the written opinion (public docket mirrors were unreachable this hour). No notice of appeal found yet.</p>
+<p><strong>Also checked, no change:</strong> SCOTUS dockets for Duncan v. Bonta 25-198, Gator's 25-153 and NAGR 25-421 show no new entries and no grant; a CNNBC page claiming the Court "agreed to hear" an assault-weapons challenge is not supported by the dockets. Novotny v. Moore 25-1324 remains distributed for the Oct 9 conference. ATF's post-<em>Silencer Shop</em> NFA guidance is still not published.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://bearingarms.com/camedwards/2026/10/06/federal-judge-keeps-marylands-glock-ban-in-place-for-now-n1234035">Bearing Arms: Federal Judge Keeps Maryland's Glock Ban in Place for Now (Oct 6)</a></li>
+<li><a href="https://oag.maryland.gov/News/pages/Attorney-General-Brown-on-Court-Ruling-Keeping-Maryland%E2%80%99s-Law-on-Machine-Gun-Convertible-Pistols-in-Place.aspx">Maryland AG statement on the Sep 25 oral ruling</a></li>
+<li><a href="https://www.pacermonitor.com/public/case/64848445/Bathras_et_al_v_Moore_et_al">Bathras v. Moore docket (PACER Monitor)</a></li>
+<li><a href="https://www.courthousenews.com/glock-wins-temporary-block-on-connecticuts-convertible-pistol-ban/">Courthouse News: Glock wins temporary block on Connecticut's ban</a></li>
+<li><a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-198.html">SCOTUS docket 25-198 (Duncan v. Bonta)</a></li>]]></description>
+      <pubDate>Tue, 06 Oct 2026 11:33:26 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261006T113326-written-opinion-explains-denial-of-injunction-against-maryla</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" type="image/jpeg" length="171946"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 06, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
