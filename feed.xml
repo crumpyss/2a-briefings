@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 18:29:04 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 20:52:45 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,44 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>San Diego County sues filament maker Polymaker over ghost-gun marketing</title>
+      <link>https://www.countynewscenter.com/county-introduces-new-consumer-fairness-and-public-protection-division-launches-three-major-lawsuits/</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca-state-capitol.jpg" alt="California State Capitol, Sacramento" width="1200" height="630"></p>
+STATUS: MATERIAL_NEW
+
+San Diego County sues 3D-printer filament maker Polymaker over ghost-gun marketing
+
+WHAT'S NEW: On Oct 5, 2026, San Diego County Counsel Damon Brown filed People v. Polymaker LLC in San Diego Superior Court. It's the County, not the City. GIFFORDS Law Center and White & Case are co-counsel. It was one of the first three suits from the County's new Consumer Fairness and Public Protection unit; the other two target AppLovin and Roblox. The case number was blank on the posted copy and is unverified.
+
+THE CLAIM: A single count under California's Unfair Competition Law (Bus. & Prof. Code 17200). The County's theory is that marketing filament for gun-making makes it a regulated "firearm precursor part" under Penal Code 16531. It alleges violations of the precursor-part sales laws, AB 1263's ban on knowingly facilitating illegal gun-making (Civ. Code 3273.625 / Penal Code 29186, effective Jan 1, 2026), and the Firearm Industry Responsibility Act.
+
+KEY ALLEGATIONS (none proven):
+- A "3D Print General PLA Pro" spool sold with YouTuber Sean Aranda's likeness and the slogan "Come and Make It."
+- Polymaker allegedly sponsored Aranda after YouTube demonetized him, then hired him in Dec 2023. He's now Head of Customer Experience and is not a defendant.
+- On r/fosscad, asked "Which is better for building guns?", Polymaker's account allegedly recommended PolyLite PLA Pro.
+- Polymaker's wiki allegedly calls J-B Weld "[p]opular in functional applications like 3D-printed firearms."
+- In May 2026, SDPD found Polymaker filament, four printed handgun frames and conversion devices at the home of an arrested 16-year-old. The complaint does not allege the marketing caused that purchase.
+
+WHAT THE COUNTY WANTS: Civil penalties up to $2,500 per violation (each day counted separately; no total stated), disgorgement of revenue tied to the marketing, injunctions, and attorney's fees. The complaint says it "does not seek to ban the sale of filament in California."
+
+POLYMAKER RESPONSE: None found as of about 9 PM ET Oct 5.
+
+WHY IT MATTERS: Earlier California cases went after gun-specific products: the Coast Runner mill (same County and GIFFORDS team) and the Gatalog files. This one targets a raw-material maker. Filed 9 days after AB 2047 was signed; the complaint doesn't rely on AB 2047, which covers printers, not filament. Likely fights: whether PLCAA applies to a company without a federal license, vagueness of the "marketing makes it a precursor part" theory, First Amendment (much of the conduct alleged is speech), and possible removal to federal court.
+
+SOURCES:
+- Complaint PDF (County-posted): https://drive.google.com/file/d/11Lf-huSzkf3Z5UGNoFJP2JHG_ex4kcxU/view
+- County News Center: https://www.countynewscenter.com/county-introduces-new-consumer-fairness-and-public-protection-division-launches-three-major-lawsuits/
+- Supervisor Lawson-Remer release: https://www.supervisorterralawsonremer.com/content/d3/us/en/newsroom/newsroom.1791236169387.html
+- Patch / City News Service: https://patch.com/california/san-diego/new-county-consumer-protection-unit-announces-first-set-lawsuits
+- GIFFORDS on Coast Runner: https://giffords.org/lawcenter/lawsuit/california-v-coast-runner-holding-ghost-gun-companies-accountable/]]></description>
+      <pubDate>Mon, 05 Oct 2026 20:52:45 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261005T205245-san-diego-county-sues-filament-maker-polymaker-over-ghost-gu</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca-state-capitol.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca-state-capitol.jpg" type="image/jpeg" length="92207"/>
+    </item>
     <item>
       <title>DOJ tells Fifth Circuit under-21 handgun case is moot, pledges no enforcement anywhere</title>
       <link>https://bearingarms.com/camedwards/2026/10/05/trump-doj-tells-court-it-wont-enforce-under-21-handgun-ban-anywhere-n1234032</link>
