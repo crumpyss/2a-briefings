@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 11:33:27 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:34:25 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,26 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ tells court lawful self-defense carry is allowed in public national park buildings (Zimmerman v. Blanche)</title>
+      <link>https://assets.nationbuilder.com/firearmspolicycoalition/pages/16907/attachments/original/1790976112/2026.10.02_022_D's_Memo_ISO_MTD.pdf?1790976112</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" alt="Seal of the U.S. Department of Justice" width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong></p>
+<p><strong>What's new:</strong> In an Oct. 2, 2026 motion to dismiss in <em>Zimmerman v. Blanche</em> (N.D. Tex., Fort Worth, No. 4:26-cv-00372-Y, ECF 22), the Justice Department told the court that 18 U.S.C. § 930(a) does not prohibit a person who may lawfully carry from carrying a handgun for self-defense in national park facilities that are open to the public, such as visitor centers or shops. DOJ relies on the August 2026 Office of Legal Counsel opinion that read § 930(d)(3)'s "lawful purposes" exception to cover self-defense carry in publicly accessible post offices, says that opinion binds the Executive Branch, and calls its application to the plaintiffs' conduct "self-evident." On that basis DOJ argues the plaintiffs (Gary Zimmerman, Lisa Ventura, FPC and SAF) face no credible threat of prosecution and lack standing. It also argues there are no firearms restrictions under 36 C.F.R. § 1.5 in the 15 parks Zimmerman plans to visit. The filing was first reported today by AmmoLand (Oct. 6, ~10:34 AM ET).</p>
+<p><strong>Why it matters:</strong> This is DOJ's position in a federal court filing, extending the OLC post-office reading to public National Park Service buildings. It is not a court ruling or an injunction, and it does not repeal § 930. AmmoLand notes that, as of Oct. 6, the National Park Service's firearms page still describes a prohibition in facilities such as visitor centers and ranger stations. Courthouses, secured areas and nonpublic areas remain outside DOJ's reading. The court has not ruled on the motion.</p>
+<p><strong>Verification:</strong> VERIFIED from the filed DOJ memorandum (ECF 22, filed 10/02/26). The AmmoLand characterization of the NPS webpage was not independently checked.</p>
+<p><strong>Sources:</strong><br>
+<a href="https://assets.nationbuilder.com/firearmspolicycoalition/pages/16907/attachments/original/1790976112/2026.10.02_022_D's_Memo_ISO_MTD.pdf?1790976112">DOJ memorandum in support of motion to dismiss (ECF 22, Oct. 2, 2026), hosted by FPC</a><br>
+<a href="https://www.courtlistener.com/docket/73100297/zimmerman-v-bondi/">CourtListener docket, Zimmerman v. Bondi/Blanche</a><br>
+<a href="https://www.ammoland.com/2026/10/doj-says-gun-owners-may-carry-in-public-national-park-buildings/">AmmoLand: DOJ Says Gun Owners May Carry in Public National Park Buildings (Oct. 6)</a><br>
+<a href="https://www.justice.gov/olc/media/1457751/dl">DOJ OLC opinion on § 930(d)(3) (Aug. 2026)</a></p>]]></description>
+      <pubDate>Tue, 06 Oct 2026 12:34:24 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261006T123424-doj-tells-court-lawful-self-defense-carry-is-allowed-in-publ</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" type="image/jpeg" length="97941"/>
+    </item>
     <item>
       <title>Written opinion explains denial of injunction against Maryland Glock ban (Bathras v. Moore)</title>
       <link>https://bearingarms.com/camedwards/2026/10/06/federal-judge-keeps-marylands-glock-ban-in-place-for-now-n1234035</link>
