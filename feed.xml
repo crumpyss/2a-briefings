@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:22:44 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:31:31 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,26 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>SCOTUS turns away DOJ appeal in felon-gun case U.S. v. Hembree, leaving Fifth Circuit as-applied ruling in place</title>
+      <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1219.html</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong> (catch-up: this order was on the Oct 5 list but was not in the Oct 5 alert)</p>
+<p><strong>What's new:</strong> On its Monday, Oct 5, 2026 order list, the Supreme Court denied the federal government's petition in <em>United States v. Hembree</em>, No. 25-1219, with no noted dissent. That leaves in place the Fifth Circuit's Jan 27, 2026 ruling (No. 24-60436) that 18 U.S.C. 922(g)(1), the federal felon-in-possession ban, violates the Second Amendment as applied to Charles Hembree, whose prior felony was simple drug possession (as described in press coverage of the ruling). Verified on the order list and the docket.</p>
+<p><strong>Why it matters:</strong> The Solicitor General didn't ask for full review. In April it asked the Court to hold the case for <em>Hemani</em> and then send it back to the Fifth Circuit to reconsider after that decision (a "grant, vacate and remand"). The Court instead denied outright after deciding <em>Hemani</em> in June, so the Fifth Circuit's as-applied 922(g)(1) ruling stands. The denial sets no national precedent, but the ruling remains binding in the Fifth Circuit (Texas, Louisiana, Mississippi), and the Court has once again passed on taking up 922(g)(1) after <em>Hemani</em>. Background: <em>Hemani</em> (June 18, 2026) held 922(g)(3), the drug-user ban, unconstitutional as applied, and Gorsuch's opinion expressly said it was not addressing felon disarmament.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.supremecourt.gov/orders/courtorders/100526zor_2a34.pdf">SCOTUS Oct 5, 2026 order list</a> (25-1219, cert denied)</li>
+<li><a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1219.html">SCOTUS docket 25-1219</a></li>
+<li><a href="https://www.supremecourt.gov/DocketPDF/25/25-1219/405297/20260424154007417_Hembree%20Petition.pdf">SG petition (asked to hold for Hemani, then remand)</a></li>
+<li><a href="https://townhall.com/news/jeff-charles/2026/10/07/scotus-declines-to-hear-marijuana-and-firearms-case-n2684265">Townhall, Oct 7 coverage</a></li>]]></description>
+      <pubDate>Wed, 07 Oct 2026 17:31:30 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261007T173130-scotus-turns-away-doj-appeal-in-felon-gun-case-u-s-v-hembree</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 07, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
