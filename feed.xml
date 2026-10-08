@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 17:31:31 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:54:38 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,27 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>2A Daily Digest – Oct 08, 2026</title>
+      <link>https://youtube.com/johncrumpnews</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>Status: no material change</strong> since the Oct 7 morning digest. Overnight checks of Supreme Court dockets, the Federal Register public-inspection list, ATF/DOJ releases and major 2A outlets turned up nothing new; coverage is recapping items already briefed (Hembree and Johnson cert denials, the Bathras Maryland Glock opinion, DOJ's national-park carry position).</p>
+<p><strong>Live deadlines and watch items (background):</strong></p>
+<ul>
+<li><strong>SCOTUS conference Fri Oct 9.</strong> Johnson v. United States, No. 26-270 (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-270.html">docket</a>). Novotny, No. 25-1324, was rescheduled off this conference on Oct 6 (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html">docket</a>). Beckwith, No. 26-258, is distributed for the Oct 16 conference (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-258.html">docket</a>).</li>
+<li><strong>ATF post-Hendrix NFA guidance</strong> has still not been released; DOJ's reply on the states' clarification motion is due Oct 12.</li>
+<li><strong>U.S. v. Montgomery County (Md.)</strong>: no ruling yet from Judge Chuang after the Oct 1 hearing.</li>
+<li><strong>Maryland Glock-ban case (Bathras)</strong>: watch for a notice of appeal from the written denial of a preliminary injunction.</li>
+<li><strong>Viramontes v. Cook County / Grant v. Higgins</strong> (AR-15 bans) remain set for argument Dec 2 (<a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-238.html">Viramontes docket</a>).</li>
+</ul>
+<p>Background only: New Jersey has asked to pause Padua v. Platkin (suppressor ban) pending the AR-15 cases (<a href="https://thereticle.com/articles/new-jersey-suppressor-ban-padua-v-platkin-stay-ar-15-cases.html">The Reticle</a>).</p>]]></description>
+      <pubDate>Thu, 08 Oct 2026 08:53:40 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261008T085340-2a-daily-digest-oct-08-2026</guid>
+      <category>digest</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>SCOTUS turns away DOJ appeal in felon-gun case U.S. v. Hembree, leaving Fifth Circuit as-applied ruling in place</title>
       <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1219.html</link>
