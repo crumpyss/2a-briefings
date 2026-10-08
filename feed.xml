@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:54:38 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:49:11 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,38 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ opposes statewide and nationwide NFA relief in Missouri suppressor/SBR case (Brown v. ATF)</title>
+      <link>https://bearingarms.com/camedwards/2026/10/08/doj-opposes-states-request-for-universal-injunction-in-nfa-case-n1234063</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" alt="Seal of the U.S. Department of Justice" width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong></p>
+<p><strong>DOJ argues against statewide and nationwide NFA relief in the Missouri suppressor/SBR case (Brown v. ATF, E.D. Mo.)</strong></p>
+<p><strong>What's new</strong></p>
+<ul>
+<li><strong>Wed Oct 7:</strong> DOJ filed the supplemental brief Chief Judge Stephen R. Clark had ordered (Doc. 109) in the consolidated <em>Brown v. ATF</em> / <em>Missouri ex rel. Hanaway v. ATF</em> case (No. 4:25-cv-01162-SRC). As reported by Bearing Arms, DOJ argues that several of the states trying to join lack standing because they already got relief under Judge Hendrix's Silencer Shop/Jensen injunction. It also argues that the states' request for an injunction against NFA registration "throughout … the United States" is "foreclosed by Trump v. CASA."</li>
+<li>DOJ also opposes a statewide injunction "throughout Plaintiff States." It calls that "a 'thinly veiled attempt' to invoke a parens patriae theory of standing" and says states can't sue the federal government as parens patriae to shield their residents from a federal statute.</li>
+<li><strong>Tue Oct 6:</strong> Judge Clark noted that ATF's Oct 5 deadline to appeal the Silencer Shop injunction "has come and gone without an appeal." He set a Zoom status conference for <strong>Oct 22, 2026, at 10 a.m. CDT (11 a.m. ET)</strong> on three questions: the effect of the Silencer Shop final judgment on this case, whether Georgia, Kansas, Oklahoma, South Dakota and Utah have standing, and whether Missouri's amended complaint adding ten states (Doc. 107) is valid.</li>
+</ul>
+<p><strong>Why it matters</strong></p>
+<p>This is DOJ's first filed position on how far NFA relief should reach since it decided not to appeal Hendrix's ruling. Its stance is that court relief covers only actual plaintiffs and their members and customers, not every resident of a plaintiff state. The same question is before Judge Hendrix in N.D. Tex., where DOJ's reply to nine states' motion to clarify the injunction's scope is due Oct 12. Coverage for anyone outside the injunction would then depend on ATF's post-Hendrix NFA guidance. As of about 1:50 PM ET Oct 8, that guidance was still not out: no ATF website, X account or Federal Register item.</p>
+<p><strong>Verified vs. unverified</strong></p>
+<ul>
+<li>Verified from court records: the Oct 6 status-conference order (Doc. 111), and the Sep 30 order requiring DOJ's supplemental brief by Oct 7 (Doc. 109).</li>
+<li>Not yet independently verified: the text of DOJ's Oct 7 brief isn't on the public RECAP docket yet. The quotes above come from Bearing Arms (Cam Edwards, Oct 8, 1:31 PM ET).</li>
+</ul>
+<p><strong>Sources</strong></p>
+<ul>
+<li><a href="https://bearingarms.com/camedwards/2026/10/08/doj-opposes-states-request-for-universal-injunction-in-nfa-case-n1234063">Bearing Arms: If NFA Registration Is Unconstitutional, Why Is DOJ Fighting Nationwide Relief? (Oct 8)</a></li>
+<li><a href="https://storage.courtlistener.com/recap/gov.uscourts.moed.222254/gov.uscourts.moed.222254.111.0.pdf">E.D. Mo. Doc. 111: Oct 6 order setting the Oct 22 status conference</a></li>
+<li><a href="https://storage.courtlistener.com/recap/gov.uscourts.moed.222254/gov.uscourts.moed.222254.109.0.pdf">E.D. Mo. Doc. 109: Sep 30 order directing DOJ's Oct 7 supplemental brief</a></li>
+<li><a href="https://storage.courtlistener.com/recap/gov.uscourts.moed.222254/gov.uscourts.moed.222254.107.0.pdf">E.D. Mo. Doc. 107: Missouri's amended complaint adding ten states (Sep 24)</a></li>]]></description>
+      <pubDate>Thu, 08 Oct 2026 13:49:10 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261008T134910-doj-opposes-statewide-and-nationwide-nfa-relief-in-missouri</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" type="image/jpeg" length="97941"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 08, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
