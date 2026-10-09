@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 10:32:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:53:18 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,22 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>GOA, VCDL and two students sue Virginia over new under-21 handgun and 'assault firearm' purchase ban</title>
+      <link>https://foundation.gunowners.org/litigation/boyer-v-katz/</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
+<p><strong>What's new:</strong> Gun Owners of America, Gun Owners Foundation, the Virginia Citizens Defense League and its foundation, plus two Liberty University students (ages 18 and 19), filed <em>Boyer v. Katz</em> on Oct 6, 2026 in the Circuit Court for the City of Lynchburg against Virginia State Police Superintendent Jeffrey Katz. It became public through news coverage on Fri Oct 9.</p>
+<p>The suit challenges two laws under Article I, Section 13 of the Virginia Constitution: Va. Code § 18.2-308.7(C), added by HB1525 (signed by Gov. Spanberger Apr 22, 2026), which bars anyone under 21 from buying a handgun or "assault firearm" in Virginia, and § 18.2-308.2:5, the private-sale background-check requirement. Plaintiffs also filed a motion for a temporary restraining order and preliminary injunction. Violations are Class 1 misdemeanors.</p>
+<p><strong>Why it matters:</strong> Lynchburg's circuit court has already ruled that 18-to-20-year-olds have a state constitutional right to buy handguns (<em>Elhert v. Settle</em>, 2020; <em>Wilson v. Settle</em>, Dec 2024). It also enjoined the private-sale check law in 2025 and again on June 3, 2026 in <em>Wilson v. Katz</em>. This new case is the first direct challenge to the explicit under-21 purchase ban HB1525 added. It runs alongside the federal under-21 fights, including DOJ's Fifth Circuit position in FPC v. ATF.</p>
+<p><strong>Status:</strong> VERIFIED from the complaint and TRO/PI motion posted by Gun Owners Foundation. It's a filing only, with no hearing date or ruling yet. The case number isn't shown on the posted copies.</p>
+<p><strong>Sources:</strong> <a href="https://foundation.gunowners.org/litigation/boyer-v-katz/">Gun Owners Foundation case page</a> · <a href="https://foundation.gunowners.org/wp-content/uploads/COMPLAINT.pdf">Complaint (PDF)</a> · <a href="https://foundation.gunowners.org/wp-content/uploads/M-for-TRO-PI.pdf">TRO/PI motion (PDF)</a> · <a href="https://www.ammoland.com/2026/10/virginia-under-21-gun-purchase-ban-lawsuit/">AmmoLand</a> · <a href="https://www.thetruthaboutguns.com/goa-virginia-under-21-gun-lawsuit/">The Truth About Guns</a> · <a href="https://www.wsls.com/news/local/2026/06/10/lynchburg-loophole/">WSLS on the June 2026 Lynchburg injunction</a></p>]]></description>
+      <pubDate>Fri, 09 Oct 2026 11:53:18 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261009T115318-goa-vcdl-and-two-students-sue-virginia-over-new-under-21-han</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
+    </item>
     <item>
       <title>DOJ appeals ruling that vacated ATF's 'engaged in the business' dealer rule</title>
       <link>https://foundation.gunowners.org/wp-content/uploads/EIB-NOA.pdf</link>
