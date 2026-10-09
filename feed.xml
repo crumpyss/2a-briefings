@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:32:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:32:29 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,34 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ appeals ruling that vacated ATF's 'engaged in the business' dealer rule</title>
+      <link>https://foundation.gunowners.org/wp-content/uploads/EIB-NOA.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" alt="Seal of the Bureau of Alcohol, Tobacco, Firearms and Explosives" width="1200" height="630"></p>
+STATUS: MATERIAL_NEW
+
+DOJ appeals ruling that vacated ATF's "engaged in the business" gun-dealer rule
+
+WHAT'S NEW: On Oct 9, 2026, DOJ/ATF filed a notice of appeal to the Fifth Circuit in Texas v. ATF (N.D. Tex., Amarillo, No. 2:24-cv-00089-Z, ECF 189). It appeals the court's June 12, 2026 Final Judgment (ECF 176) and Aug 13, 2026 Order (ECF 185).
+
+QUESTIONS DOJ SAYS IT WILL RAISE (quoted from the notice):
+1. "Whether the plaintiffs have Article III standing;"
+2. "Whether the district court erred in concluding that only businesses that make a profit can be 'engaged in the business' of dealing firearms, and whether the district court erred in concluding that only businesses that have completed actual firearms sales are 'engaged in the business' of dealing firearms;"
+3. "Whether the district court erred in vacating the challenged ATF rule in full."
+
+WHY IT MATTERS: The notice confirms the district court vacated the ATF "engaged in the business" rule in full. That's the Biden-era rule expanding who must get a federal dealer license (FFL) to sell guns. DOJ is now asking the Fifth Circuit to review that, contesting both the standing of the plaintiffs (Texas and other parties) and the court's reading that dealing requires profit and completed sales. A notice of appeal is not a brief or a ruling. It doesn't by itself revive the rule, and DOJ hasn't asked for a stay as far as this filing shows. Signed by Brett Shumate's Civil Division (Federal Programs Branch).
+
+CAVEAT: Only the notice of appeal has been reviewed; the merits arguments come later in DOJ's Fifth Circuit brief.
+
+SOURCE:
+- Notice of appeal (ECF 189), posted by Gun Owners Foundation: https://foundation.gunowners.org/wp-content/uploads/EIB-NOA.pdf]]></description>
+      <pubDate>Fri, 09 Oct 2026 10:32:28 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261009T103228-doj-appeals-ruling-that-vacated-atf-s-engaged-in-the-busines</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" type="image/jpeg" length="104831"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 09, 2026</title>
       <link>https://bearingarms.com/camedwards/2026/10/08/doj-opposes-states-request-for-universal-injunction-in-nfa-case-n1234063</link>
