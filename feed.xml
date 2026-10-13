@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:52:30 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:56:35 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,22 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>9th Cir.: §922(g)(3) facial ruling survives Hemani (Youngblood)</title>
+      <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/13/24-7629.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" alt="James R. Browning U.S. Court of Appeals Building, San Francisco — home of the Ninth Circuit" width="1200" height="630"></p>
+<p><strong>Verified.</strong> The Ninth Circuit today published <em>United States v. Youngblood</em>, No. 24-7629 (Tallman, Owens, R. Nelson; filed Oct. 13, 2026), affirming a §922(g)(3) conviction of a frequent methamphetamine and fentanyl user.</p>
+<p>The panel held that its earlier ruling that §922(g)(3) is <em>facially</em> constitutional (<em>United States v. Stennerson</em>, 2025) remains binding after the Supreme Court’s <em>United States v. Hemani</em> (2026). <em>Hemani</em> resolved a narrow as-applied challenge (marijuana use “about every other day”) and left open present-intoxication applications; the panel found <em>Stennerson</em> not “clearly irreconcilable” with <em>Hemani</em>. It also held Youngblood waived his as-applied challenge by failing to argue it specifically in his opening brief.</p>
+<p><strong>Why it matters:</strong> Among the first published circuit opinions on how much of §922(g)(3)’s facial validity survives <em>Hemani</em>; binding across the Ninth Circuit.</p>
+<p><strong>Primary source:</strong> <a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/13/24-7629.pdf">Opinion PDF (CA9)</a> · <a href="https://www.ca9.uscourts.gov/opinions/">CA9 opinions list</a></p>
+<p><em>Note:</em> Separate from today’s already-briefed Third Circuit en banc <em>Bost</em> (§922(g)(1)) and SCOTUS denial of <em>Johnson</em> 26-270. An FPC X post claiming denial of panel rehearing in <em>California v. ATF</em> (frame/receiver standing) is unverified and not included here.</p>]]></description>
+      <pubDate>Tue, 13 Oct 2026 13:56:34 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261013T135634-9th-cir-922-g-3-facial-ruling-survives-hemani-youngblood</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" type="image/jpeg" length="133963"/>
+    </item>
     <item>
       <title>DOJ Tells Texas Court No Clarification Needed in Silencer Shop NFA Case, Citing Nationwide Non-Enforcement</title>
       <link>https://storage.courtlistener.com/recap/gov.uscourts.txnd.406278/gov.uscourts.txnd.406278.147.0.pdf</link>
