@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 11:45:32 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:52:28 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,21 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>En Banc Third Circuit Upholds Felon Gun Ban for Violent Offender in U.S. v. Bost</title>
+      <link>https://www2.ca3.uscourts.gov/opinarch/241719p.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
+<p><strong>Verified.</strong> The en banc Third Circuit today affirmed the felon-in-possession conviction in <em>United States v. Bost</em>, No. 24-1719 (precedential, filed Oct. 13, 2026).</p>
+<p>Judge Bibas wrote for the majority: some predicate crimes, including Pennsylvania terroristic threats, show “a prima facie risk of physical violence from misusing guns,” so people convicted of those crimes “may presumptively be disarmed based on those convictions alone.” Joining Bibas: Chief Judge Chagares and Judges Hardiman, Porter, Matey, Freeman, and Fisher (Montgomery-Reeves joined except Section II.B; Mascott joined only Part I, Section II.A, and Part IV). Shwartz (with Krause and Restrepo) concurred in the judgment on a broader theory that all felonies can disarm. Mascott would uphold the ban as applied to Bost but not categorically by offense class. Phipps dissented, joined by Bove, and would find § 922(g)(1) unconstitutional as applied to Bost.</p>
+<p><strong>Why it matters:</strong> First en banc Third Circuit felon-in-possession ruling since the <em>Range</em> decisions, under a more conservative court. It sets a “violent predicate → presumptively disarmed” frame that diverges from the Fifth Circuit’s as-applied approach (e.g., <em>Hembree</em> on simple drug possession), deepening the circuit split over how <em>Rahimi</em> applies to felons and keeping the issue in front of SCOTUS. Reargued en banc Feb. 11, 2026 together with <em>Williams v. Attorney General</em> (old DUI predicate); <em>Williams</em> is not decided yet. Opinion is 61 pages with five separate writings.</p>
+<p>Primary source: <a href="https://www2.ca3.uscourts.gov/opinarch/241719p.pdf">Third Circuit opinion PDF</a>. Coverage: <a href="https://news.bloomberglaw.com/us-law-week/third-circuit-upholds-gun-ban-for-those-with-violent-felonies">Bloomberg Law</a>.</p>]]></description>
+      <pubDate>Tue, 13 Oct 2026 12:52:27 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261013T125227-en-banc-third-circuit-upholds-felon-gun-ban-for-violent-offe</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
+    </item>
     <item>
       <title>SCOTUS puts Maryland carry case Novotny v. Moore back on conference for Oct 16</title>
       <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html</link>
