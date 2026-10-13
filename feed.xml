@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 10:06:43 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:45:32 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,21 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>SCOTUS puts Maryland carry case Novotny v. Moore back on conference for Oct 16</title>
+      <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>What's new (verified, SCOTUS docket):</strong> The Supreme Court docket for <em>Novotny v. Moore</em>, No. 25-1324, added a Tuesday, Oct 13, 2026 entry: "DISTRIBUTED for Conference of 10/16/2026." The docket page was updated around 11:08 AM ET.</p>
+<p><strong>Why it matters:</strong> This is the challenge to Maryland's public-carry and sensitive-places restrictions, on petition from the Fourth Circuit's Jan 20, 2026 decision (4th Cir. Nos. 24-1799, 24-1827, 24-1834, 24-1836). The petition has now been set for conference three times. It was rescheduled off the Sep 28 conference on Sep 24, redistributed for Oct 9 on Oct 5, and rescheduled again on Oct 6. Friday's private conference is the next point where the justices could grant, deny, or relist it. Any order would most likely appear on the following order list (typically Monday, Oct 19), though the case could be rescheduled again before then. The docket does not indicate which way it will go.</p>
+<p><strong>Background (not new):</strong> Respondents (Gov. Wes Moore et al.) filed their brief in opposition Aug 17, and petitioners replied Sep 2. Gun Owners of America and others filed an amicus brief Jun 29. Beckwith (No. 26-258) is also distributed for the same Oct 16 conference.</p>
+<p><strong>Sources:</strong> <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html">SCOTUS docket, No. 25-1324</a></p>]]></description>
+      <pubDate>Tue, 13 Oct 2026 11:45:32 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261013T114532-scotus-puts-maryland-carry-case-novotny-v-moore-back-on-conf</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>SCOTUS denies cert in Johnson 26-270 — leaves 10th Cir. bar on as-applied § 922(g)(1) challenges</title>
       <link>https://www.supremecourt.gov/orders/courtorders/101326zor_qol1.pdf</link>
