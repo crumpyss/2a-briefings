@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:56:35 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:45:26 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,30 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>En banc Third Circuit: felon gun ban unconstitutional as applied to decades-old DUI offender (Williams)</title>
+      <link>https://www2.ca3.uscourts.gov/opinarch/241091p.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong></p>
+<p><strong>What's new (verified, primary opinion):</strong> The en banc Third Circuit decided <em>Williams v. Attorney General</em>, No. 24-1091, on Oct. 13, 2026, and affirmed summary judgment for Edward Williams, holding 18 U.S.C. &sect; 922(g)(1) unconstitutional as applied to him. Williams's predicate was a 2005 Pennsylvania DUI at the highest BAC tier that, as a second offense, was punishable by up to five years; he served his sentence on home confinement. This is the companion case flagged as still pending when the court decided <em>United States v. Bost</em> earlier the same day.</p>
+<ul>
+<li><strong>Majority:</strong> Judge Matey, joined by Judges Hardiman, Bibas, Porter, Phipps, Bove and Mascott. The court read the historical tradition as permitting disarmament of people who pose a risk of physical violence, not felons as a class, and said the government had not shown Williams is currently dangerous.</li>
+<li><strong>&sect; 925(c) argument rejected:</strong> The majority declined DOJ's request to make Williams first use the newly revived administrative rights-restoration process (91 FR 54054). In the court's words: "Our duty is to decide the case based on present facts, not future promises."</li>
+<li><strong>Lineup:</strong> Chief Judge Chagares concurred in the judgment but would generally require people to go through &sect; 925(c) first (he excused Williams given the case's long history). Judge Freeman (with Judges Montgomery-Reeves and Chung) and Judge Shwartz (with Judges Krause and Restrepo) dissented from the judgment. By our count of the listed lineup, that is 8&ndash;6 to affirm.</li>
+</ul>
+<p><strong>Why it matters:</strong> Read with <em>Bost</em> (same court, same day, upholding &sect; 922(g)(1) for a terroristic-threats predicate), the Third Circuit now has an en banc framework where violent predicates support disarmament and a non-violent, decades-old DUI predicate does not. It also squarely addresses whether &sect; 925(c) relief displaces as-applied court challenges, a question DOJ has been pressing in other circuits. The relief is a declaratory judgment specific to Williams, not a nationwide ruling. Possible next steps are a government cert petition or acceptance; neither has been announced.</p>
+<p><strong>Background (not new):</strong> <em>Bost</em> (3d Cir. en banc, No. 24-1719) and SCOTUS's Oct. 13 cert denial in <em>Johnson v. United States</em>, No. 26-270, were briefed earlier today.</p>
+<p><strong>Sources:</strong><br>
+<a href="https://www2.ca3.uscourts.gov/opinarch/241091p.pdf">Third Circuit en banc opinion, Williams v. Attorney General, No. 24-1091 (PDF)</a><br>
+<a href="https://www2.ca3.uscourts.gov/opinarch/241719p.pdf">Same-day companion opinion, United States v. Bost, No. 24-1719 (PDF)</a><br>
+<a href="https://x.com/gunpolicy/status/2110068235207139484">Firearms Policy Coalition announcement (supporting organization, not neutral)</a></p>]]></description>
+      <pubDate>Tue, 13 Oct 2026 14:45:26 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261013T144526-en-banc-third-circuit-felon-gun-ban-unconstitutional-as-appl</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
+    </item>
     <item>
       <title>9th Cir.: §922(g)(3) facial ruling survives Hemani (Youngblood)</title>
       <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/13/24-7629.pdf</link>
