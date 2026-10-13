@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:25:02 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:06:43 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,25 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>SCOTUS denies cert in Johnson 26-270 — leaves 10th Cir. bar on as-applied § 922(g)(1) challenges</title>
+      <link>https://www.supremecourt.gov/orders/courtorders/101326zor_qol1.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>What is new:</strong> On its Tuesday, October 13, 2026 order list, the Supreme Court denied certiorari in <em>Joseph Frederick Johnson v. United States</em>, No. 26-270 (from the Tenth Circuit). Johnson’s sole predicate was a 2015 state marijuana-cultivation felony. He asked the Court whether someone whose only felony is non-violent may bring an as-applied Second Amendment challenge to the lifetime firearm ban in 18 U.S.C. § 922(g)(1). The Tenth Circuit had affirmed under circuit precedent that categorically bars as-applied challenges. Amici supporting cert included the Cato Institute and the NRA, Firearms Policy Coalition, and Second Amendment Foundation. No Justice issued a statement respecting this denial.</p>
+<p><strong>Why it matters:</strong> The denial leaves the Tenth Circuit’s categorical bar in place for that circuit. It does not create new nationwide law and does not resolve the petition’s claimed circuit split on as-applied § 922(g)(1) challenges. Other circuits that allow as-applied challenges remain free to do so. This is a different case from <em>Jeffrey M. Johnson, Sr. v. Jacobson</em>, No. 26-255 (denied Oct. 5).</p>
+<p><strong>Verified:</strong> Primary source is the Court’s Oct. 13 order list (CERTIORARI DENIED caption). Docket HTML may lag the PDF.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.supremecourt.gov/orders/courtorders/101326zor_qol1.pdf">Oct. 13, 2026 Order List (PDF)</a></li>
+<li><a href="https://www.supremecourt.gov/docket/docketfiles/html/public/26-270.html">Docket 26-270</a></li>
+<li><a href="https://www.supremecourt.gov/DocketPDF/26/26-270/421280/20260827120533394_Johnson%20Cert%20Petition.pdf">Cert petition (PDF)</a></li>]]></description>
+      <pubDate>Tue, 13 Oct 2026 10:06:43 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261013T100643-scotus-denies-cert-in-johnson-26-270-leaves-10th-cir-bar-on</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 13, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
