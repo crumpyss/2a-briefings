@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:45:26 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:42:48 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,28 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>9th Cir. affirms §922(g)(3) conviction in Youngblood; Stennerson survives Hemani</title>
+      <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/13/24-7629.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" alt="James R. Browning U.S. Court of Appeals Building, San Francisco — home of the Ninth Circuit" width="1200" height="630"></p>
+<p><strong>Verified.</strong> Ninth Circuit panel opinion filed Oct. 13, 2026: <em>United States v. Youngblood</em>, No. 24-7629 (Tallman, J.; Owens &amp; R. Nelson, JJ.). Affirmed Dylan Youngblood’s conviction under 18 U.S.C. §&nbsp;922(g)(3) (unlawful user of / addicted to a controlled substance).</p>
+<ul>
+<li>Facial Second Amendment challenge rejected: circuit’s prior holding in <em>United States v. Stennerson</em> (facial constitutionality of §&nbsp;922(g)(3), at least as to presently intoxicated persons) remains binding after the Supreme Court’s as-applied marijuana ruling in <em>United States v. Hemani</em> — not “clearly irreconcilable.”</li>
+<li>As-applied challenge held waived for failure to argue it specifically and distinctly in the opening brief.</li>
+<li>Facts: Kalispell, Mont. arrest; fentanyl on person; pistols and suspected meth in car; admission of same-day fentanyl use.</li>
+</ul>
+<p><strong>Why it matters:</strong> First published Ninth Circuit application of §&nbsp;922(g)(3) after <em>Hemani</em>; keeps facial challenges closed in CA9 while leaving live as-applied paths for properly briefed cases. Binding in the Ninth Circuit only.</p>
+<p>Opinion PDF: <a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/13/24-7629.pdf">https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/13/24-7629.pdf</a></p>
+<p><strong>Also new (verified filing):</strong> DOJ’s Oct. 12 response (ECF 147) in <em>Silencer Shop Foundation v. ATF</em> (N.D. Tex. 6:25-cv-56) to state plaintiffs’ motion to clarify the permanent injunction. DOJ says clarification is unnecessary because ATF’s Oct. 9 open letter/FAQs already announce nationwide non-enforcement of the challenged NFA provisions for untaxed SBRs/SBSs/suppressors/AOWs; and argues the injunction remains party-limited (plaintiffs / agencies / members / customers), not a geographic bar covering all persons in plaintiff states. No new court order — briefing only.</p>
+<p>DOJ response PDF (AmmoLand host): <a href="https://www.ammoland.com/wp-content/uploads/2026/10/gov.uscourts.txnd_.406278.147.0.pdf">https://www.ammoland.com/wp-content/uploads/2026/10/gov.uscourts.txnd_.406278.147.0.pdf</a></p>
+<p><em>Not rehashing:</em> en banc 3d Cir. <em>Williams</em> / <em>Bost</em> (already briefed today); SCOTUS Johnson 26-270 cert denial (already briefed); ATF Oct. 9 NFA guidance (already briefed); Fla. Eighth Circuit SA Kramer local memo (follow-on, not elevated).</p>]]></description>
+      <pubDate>Tue, 13 Oct 2026 16:42:47 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261013T164247-9th-cir-affirms-922-g-3-conviction-in-youngblood-stennerson</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" type="image/jpeg" length="133963"/>
+    </item>
     <item>
       <title>En banc Third Circuit: felon gun ban unconstitutional as applied to decades-old DUI offender (Williams)</title>
       <link>https://www2.ca3.uscourts.gov/opinarch/241091p.pdf</link>
