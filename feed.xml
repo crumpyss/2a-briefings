@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:52:28 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:52:30 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,21 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ Tells Texas Court No Clarification Needed in Silencer Shop NFA Case, Citing Nationwide Non-Enforcement</title>
+      <link>https://storage.courtlistener.com/recap/gov.uscourts.txnd.406278/gov.uscourts.txnd.406278.147.0.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/tx-state-seal.jpg" alt="Seal of the State of Texas" width="1200" height="630"></p>
+<p><strong>Verified.</strong> DOJ has filed its response (ECF 147, Oct. 12, 2026; now on RECAP) to the nine states’ motion to clarify the injunction in <em>Silencer Shop Foundation v. ATF</em>, N.D. Tex. No. 6:25-cv-56-H.</p>
+<p>DOJ says no clarification is needed because ATF’s Oct. 9 Open Letter and FAQs state it will not enforce the challenged NFA provisions against anyone, anywhere. In the alternative, DOJ argues the injunction covers the states only as entities that buy and hold their own NFA firearms—not every person or sale inside those states. It also argues that requiring ATF to issue guidance would be an untimely Rule 59(e) change to the judgment, and that the states have described their relief elsewhere (in <em>Brown v. ATF</em>, E.D. Mo.) as limited to their agencies and political subdivisions.</p>
+<p><strong>Why it matters:</strong> First court filing since the Oct. 9 NFA guidance. DOJ is telling the court the guidance is nationwide non-enforcement while arguing the injunction itself is narrow. Because non-enforcement rests on agency policy rather than a court order, it could be reversed later.</p>
+<p>Primary source: <a href="https://storage.courtlistener.com/recap/gov.uscourts.txnd.406278/gov.uscourts.txnd.406278.147.0.pdf">ECF 147 PDF (RECAP)</a>. Docket: <a href="https://www.courtlistener.com/docket/70709999/silencer-shop-foundation-v-bureau-of-alcohol-tobacco-firearms-and/">CourtListener</a>.</p>]]></description>
+      <pubDate>Tue, 13 Oct 2026 12:52:30 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261013T125230-doj-tells-texas-court-no-clarification-needed-in-silencer-sh</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/tx-state-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/tx-state-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/tx-state-seal.jpg" type="image/jpeg" length="81051"/>
+    </item>
     <item>
       <title>En Banc Third Circuit Upholds Felon Gun Ban for Violent Offender in U.S. v. Bost</title>
       <link>https://www2.ca3.uscourts.gov/opinarch/241719p.pdf</link>
