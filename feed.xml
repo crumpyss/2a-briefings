@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 08:21:36 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:46:37 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,21 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>SCOTUS again reschedules Novotny Maryland carry case off Oct 16 conference</title>
+      <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>Verified.</strong> The Supreme Court docket in <em>Novotny v. Moore</em>, No. 25-1324 (Maryland public-carry / sensitive-places challenge), shows two Oct 13, 2026 entries: first “DISTRIBUTED for Conference of 10/16/2026,” then “Rescheduled.” The later entry pulls the petition off Friday’s Oct 16 conference—the third reschedule after Sep 24 and Oct 6. No new conference date is listed. No cert decision on Novotny will come from the Oct 16 conference.</p>
+<p>By contrast, <em>Beckwith v. Frey</em>, No. 26-258 (Maine), remains DISTRIBUTED for the Conference of 10/16/2026.</p>
+<p>Why it matters: Earlier Oct 13 alerts that Novotny was back on the Oct 16 conference are outdated; any framing that it is “set for Friday” should be corrected.</p>
+<p>Source: <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html">SCOTUS docket 25-1324</a>.</p>]]></description>
+      <pubDate>Wed, 14 Oct 2026 13:46:36 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261014T134636-scotus-again-reschedules-novotny-maryland-carry-case-off-oct</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 14, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
