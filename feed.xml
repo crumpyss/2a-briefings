@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 13:46:37 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:27:21 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,21 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ opens Second Amendment investigation into Pennsauken, N.J. firearm permit delays</title>
+      <link>https://www.justice.gov/opa/pr/justice-department-opens-investigation-pennsauken-new-jerseys-allegedly-unconstitutional</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" alt="Seal of the U.S. Department of Justice" width="1200" height="630"></p>
+<p><strong>What's new (verified, DOJ press release 26-1200, Wed Oct 14, 2026):</strong> The Justice Department's Civil Rights Division, through its Second Amendment Section, opened an investigation into whether Pennsauken Township, New Jersey, deprives residents of their right to bear arms through "egregious and unjust delays" in issuing firearm licenses. The probe focuses on the Pennsauken Township Police Department's permitting system.</p>
+<p><strong>What DOJ said:</strong> Assistant Attorney General Harmeet K. Dhillon said the investigation "aims to discover if allegations of unconstitutional delays in firearm permitting are true, and if so, to fix it." The release cites <em>NYSRPA v. Bruen</em> (2022), which said a permitting process is put toward "abusive ends" when "lengthy wait times in processing license applications or exorbitant fees deny ordinary citizens their right to public carry." DOJ describes the delays as alleged; no findings have been announced.</p>
+<p><strong>Why it matters:</strong> This is a federal civil-rights investigation aimed at a local police department's handling of New Jersey purchase/carry permits, using Bruen's "lengthy wait times" language as the legal hook. It is an opening step, not a lawsuit, finding, or court order. Watch for any findings letter, settlement, or litigation, and for response from Pennsauken or New Jersey officials (none located as of ~5:30 PM ET).</p>
+<p><strong>Sources:</strong> <a href="https://www.justice.gov/opa/pr/justice-department-opens-investigation-pennsauken-new-jerseys-allegedly-unconstitutional">DOJ press release</a> · <a href="https://www.justice.gov/crt/second-amendment-section">DOJ Civil Rights Division Second Amendment Section</a> · <a href="https://x.com/gunpolicy/status/2110477092798537954">FPC post quoting the release</a></p>]]></description>
+      <pubDate>Wed, 14 Oct 2026 17:27:20 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261014T172720-doj-opens-second-amendment-investigation-into-pennsauken-n-j</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" type="image/jpeg" length="97941"/>
+    </item>
     <item>
       <title>SCOTUS again reschedules Novotny Maryland carry case off Oct 16 conference</title>
       <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html</link>
