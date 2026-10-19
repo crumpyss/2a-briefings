@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:16:47 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:37:14 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,29 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>SCOTUS denies cert in Beckwith v. Frey; Maine's 72-hour firearm waiting period stays in place</title>
+      <link>https://www.supremecourt.gov/orders/courtorders/101926zor_q8l1.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>STATUS: MATERIAL_NEW</strong></p>
+<p><strong>SCOTUS denies cert in Beckwith v. Frey; Maine's 72-hour firearm waiting period stays in place</strong></p>
+<p><strong>What's new (verified, Supreme Court order list, Mon Oct 19, 2026):</strong> The Court denied certiorari in <em>Beckwith v. Frey</em>, No. 26-258, the challenge to Maine's 72-hour waiting period on firearm purchases. It appears in the plain "certiorari denied" list with no noted dissent and no statement from any Justice. The petition had been distributed for the Oct 16 conference.</p>
+<p><strong>Background:</strong> Maine's 2024 law requires most buyers to wait 72 hours after purchase before taking possession of a firearm. The First Circuit (No. 25-1160, decided Apr 3, 2026) vacated a district-court preliminary injunction against the law. Per the cert petition, the First Circuit reasoned that laws regulating acquisition don't implicate the Second Amendment unless they are "abusive," and the petition argued this conflicts with the Tenth Circuit's ruling against New Mexico's 7-day waiting period.</p>
+<p><strong>Why it matters:</strong> The denial leaves the First Circuit's decision in place, and the disagreement the petitioners described between the First and Tenth Circuits on waiting periods remains unresolved by the Court. A cert denial is not a ruling on the merits, and the case came up in a preliminary-injunction posture.</p>
+<p><strong>Also on today's list:</strong> No other Second Amendment cases were granted or denied. <em>Novotny v. Moore</em> (No. 25-1324) was rescheduled off the Oct 16 conference on Oct 13, so no action was expected, and <em>Duncan v. Bonta</em> (No. 25-198) remains pending with no action.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.supremecourt.gov/orders/courtorders/101926zor_q8l1.pdf">Supreme Court order list, Oct 19, 2026 (PDF)</a></li>
+<li><a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-258.html">Beckwith v. Frey, No. 26-258 docket</a></li>
+<li><a href="https://www.supremecourt.gov/DocketPDF/26/26-258/420108/20260825161902465_132404-PRT-BECKWITH_Petition.pdf">Beckwith cert petition (PDF)</a></li>
+<li><a href="https://www.supremecourt.gov/DocketPDF/26/26-258/413451/20260617110127232_2.%20CA1%20Opinion%20Vacating%20PI.pdf">First Circuit opinion vacating the preliminary injunction (PDF)</a></li>]]></description>
+      <pubDate>Mon, 19 Oct 2026 09:37:13 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261019T093713-scotus-denies-cert-in-beckwith-v-frey-maine-s-72-hour-firear</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 19, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
