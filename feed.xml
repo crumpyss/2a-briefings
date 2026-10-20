@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:31:23 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:29:34 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,27 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Mass. SJC upholds age-21 minimum for a license to carry in Commonwealth v. Thomson</title>
+      <link>https://www.mass.gov/doc/commonwealth-v-thomson-sjc-o13856/download</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
+<p><strong>Mass. SJC upholds age-21 minimum for a license to carry (Commonwealth v. Thomson, SJC-13856), decided Tue Oct 20, 2026</strong></p>
+<p><strong>What is new (verified from the slip opinion):</strong> Massachusetts' highest court rejected a Second Amendment challenge to the rule that a person must be at least 21 to get a license to carry (G.L. c. 140, § 131(d)) and affirmed Mikai Thomson's conviction for carrying a firearm without a license (G.L. c. 269, § 10(a)). Thomson was 20 when police found a loaded 9mm in December 2021; the case was argued March 2, 2026.</p>
+<ul>
+<li><strong>Holding:</strong> Opinion by Justice Wolohojian. The court said restricting firearm possession by those deemed too young to handle them safely outside supervised settings "is consistent with the nation's regulatory tradition." It analogized the age-21 license rule to the founding-era practice of parents or other responsible adults supplying arms to under-21s for supervised militia use, citing the Eleventh Circuit's en banc <em>NRA v. Bondi</em>.</li>
+<li><strong>Standing:</strong> Because Thomson never applied for a license, he could not bring an as-applied challenge, but he could bring a facial one. The court left open a "futility" route to as-applied standing in a future case with a proper record.</li>
+<li><strong>Split bench:</strong> Justice Kafker, joined by Justice Wendlandt, concurred in part and dissented in part. They agreed Thomson could raise the facial challenge but would have required more briefing and expert historical analysis instead of the court drawing the historical analogy itself.</li>
+</ul>
+<p><strong>Why it matters:</strong> This is a state high court ruling on the federal Second Amendment that keeps the 18–20 carry-license bar in place in Massachusetts. It sits against federal appeals rulings that struck down 18–20 restrictions (<em>Lara</em>, 3d Cir.; <em>Worth</em>, 8th Cir.; <em>Reese</em>, 5th Cir.), which the opinion discusses, and alongside <em>Bondi</em>, which upheld one. Because it decides a federal constitutional question, a U.S. Supreme Court cert petition is possible. None has been filed, and that would be speculation for now.</p>
+<p><strong>Not yet verified:</strong> There's no press coverage yet, no statement from the defense or gun-rights groups, and no word on whether a cert petition is planned.</p>
+<p><strong>Sources:</strong> <a href="https://www.mass.gov/doc/commonwealth-v-thomson-sjc-o13856/download">SJC slip opinion (mass.gov)</a> · <a href="https://www.courtlistener.com/opinion/11039862/commonwealth-v-thomson/">CourtListener copy</a> · <a href="https://www.bostonlawyerblog.com/sjc-weighs-age-based-firearm-licensing/">Background on the March 2 argument (Boston Lawyer Blog)</a></p>]]></description>
+      <pubDate>Tue, 20 Oct 2026 10:29:33 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261020T102933-mass-sjc-upholds-age-21-minimum-for-a-license-to-carry-in-co</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
+    </item>
     <item>
       <title>SAF files new lawsuit against New Mexico's 7-day gun waiting period</title>
       <link>https://x.com/2AFDN/status/2112364754811629927</link>
