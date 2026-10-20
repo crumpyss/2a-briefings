@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:17:13 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:31:23 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,25 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>SAF files new lawsuit against New Mexico's 7-day gun waiting period</title>
+      <link>https://x.com/2AFDN/status/2112364754811629927</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
+<p><strong>New:</strong> The Second Amendment Foundation (SAF) says it and partner groups have filed a new lawsuit challenging New Mexico's "cooling off" waiting period for firearm purchases, created by House Bill 129 (2024), codified at N.M. Stat. § 30-7-7.3, which sets a seven-day wait before a buyer takes possession. SAF announced the filing on X on Monday night, Oct 19, 2026 (about 10:06 PM ET).</p>
+<p><strong>Verified vs. unverified:</strong> The filing is confirmed only by SAF's own announcement. As of about 8:35 AM ET Tuesday, no SAF press release, complaint, case name, court, plaintiff list or filing date was posted on saf.org or indexed on CourtListener, so those details are still unconfirmed.</p>
+<p><strong>Why it matters:</strong> In Ortega v. Lujan Grisham, the Tenth Circuit held the waiting-period law likely unconstitutional (2025), and on Aug 27, 2026 the U.S. District Court for New Mexico entered a final judgment, but the injunction protects only the two named plaintiffs. New Mexico DPS says the wait still applies to everyone else, and the state has appealed. A new suit is a possible route to broader relief. It comes one day after the Supreme Court declined to hear Beckwith v. Frey, a challenge to Maine's 72-hour waiting period (Oct 19).</p>
+<p><strong>Sources:</strong><br>
+<a href="https://x.com/2AFDN/status/2112364754811629927">SAF announcement on X (Oct 19, 2026)</a><br>
+<a href="https://www.dps.nm.gov/7-day-waiting-period/">New Mexico DPS waiting-period page (injunction limited to the two Ortega plaintiffs)</a><br>
+<a href="https://storage.courtlistener.com/recap/gov.uscourts.nmd.501908/gov.uscourts.nmd.501908.129.0.pdf">Ortega v. Lujan Grisham filing describing the Aug 27, 2026 final judgment (D.N.M. 1:24-cv-00471)</a><br>
+<a href="https://pinonpost.com/nms-7-day-gun-wait-takes-another-major-court-hit-but-it-isnt-dead-yet/">Piñon Post on the final judgment and the state's appeal</a></p>]]></description>
+      <pubDate>Tue, 20 Oct 2026 08:31:23 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261020T083123-saf-files-new-lawsuit-against-new-mexico-s-7-day-gun-waiting</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 20, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
