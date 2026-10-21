@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 13:25:02 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:31:38 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,25 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Cook County and Connecticut file SCOTUS briefs defending AR-15 bans (Viramontes / Grant)</title>
+      <link>https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-238.html</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>What's new (verified on the SCOTUS docket):</strong> Cook County and Connecticut submitted their merits briefs on Wed., Oct. 21, 2026 (about 5:20 PM ET) in <em>Viramontes v. Cook County</em>, No. 25-238, consolidated with <em>Grant v. Higgins</em>, No. 25-566, the AR-15 ban cases set for argument Dec. 2, 2026. The docket lists both briefs as "submitted," not yet formally filed.</p>
+<ul>
+<li><strong>Cook County</strong> (State's Attorney Eileen O'Neill Burke, counsel of record) argues the county ordinance fits a historical tradition of regulating "unusually dangerous weapons," that the ordinance responds to dangers created by technological change, and that a weapon's popularity does not shield it from regulation. It also argues AR-15s are not in common use for any purpose that immunizes them.</li>
+<li><strong>Connecticut</strong> (AG William Tong's office, with former U.S. Solicitor General Elizabeth Prelogar of Cooley LLP as counsel of record) frames the question as whether the Second and Fourteenth Amendments guarantee a right to possess AR-15 platform rifles, argues English and state laws regulated unusually dangerous weapons, that AR-15s are unusually dangerous, and that petitioners' "common-use-only" test lacks merit.</li>
+</ul>
+<p><strong>Why it matters:</strong> These are the states' main defense of AR-15 bans before the Court's first merits case on the issue. Petitioners' reply is next; the United States has already filed in support of petitioners and asked for argument time.</p>
+<p><strong>Unverified:</strong> SAF (@2AFDN) is live-threading the briefs on X and says Cook County no longer disputes that AR-15s are "arms"; that's SAF's reading, not checked against the full brief.</p>
+<p>Sources: <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-238.html">SCOTUS docket 25-238</a> · <a href="https://www.supremecourt.gov/DocketPDF/25/25-238/430314/20261021172119817_25-238%20-%2025-566%20-%20Brief.pdf">Cook County brief (PDF)</a> · <a href="https://www.supremecourt.gov/DocketPDF/25/25-238/430313/20261021172016170_Grant%20v.%20Higgins%20-%20Connecticut%20Response%20Brief.pdf">Connecticut brief (PDF)</a> · <a href="https://x.com/2AFDN/status/2113020984068653405">SAF thread on X</a></p>]]></description>
+      <pubDate>Wed, 21 Oct 2026 18:31:37 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261021T183137-cook-county-and-connecticut-file-scotus-briefs-defending-ar</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>Federal judge strikes down New York body armor ban (Heeter v. James), 14-day stay</title>
       <link>https://assets.nationbuilder.com/firearmspolicycoalition/pages/7667/attachments/original/1792596699/2026.10.21_095_OPINION.pdf?1792596699</link>
