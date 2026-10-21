@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 08:19:04 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:25:02 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,22 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Federal judge strikes down New York body armor ban (Heeter v. James), 14-day stay</title>
+      <link>https://assets.nationbuilder.com/firearmspolicycoalition/pages/7667/attachments/original/1792596699/2026.10.21_095_OPINION.pdf?1792596699</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" alt="New York State Capitol, Albany" width="1200" height="630"></p>
+<p><strong>What's new (verified, primary source):</strong> On Oct 21, 2026, U.S. District Judge John L. Sinatra Jr. (W.D.N.Y.) granted summary judgment to the plaintiffs in <em>Heeter v. James</em>, No. 1:24-cv-00623 (Benjamin Heeter, Joseph Wurtenberg and Firearms Policy Coalition). He held that New York's ban on the purchase and sale of body armor by people outside eligible professions (N.Y. Penal Law §§ 270.21 and 270.22, Gen. Bus. Law § 396-eee) violates the Second Amendment.</p>
+<p><strong>Relief:</strong> The court permanently enjoined the named defendants (the NY Attorney General, the State Police superintendent, and the Erie and Monroe County district attorneys) from enforcing the ban as to sale and purchase. The judge rejected the State's argument that <em>Trump v. CASA</em> bars statewide relief. He also <strong>granted the State's request for a 14-day stay pending appeal</strong>, so the injunction is not yet in effect. The State's cross-motions were denied on this issue.</p>
+<p><strong>Key reasoning:</strong> The court found body armor is an "arm" under <em>Heller</em>'s definition and is in common use for lawful purposes. It said the State identified no well-established historical tradition supporting the ban and offered no evidence that body armor, which the court called a purely defensive arm, is "uniquely designed to create mayhem" under the Second Circuit's <em>Lamont</em> standard. That standard is now before the Supreme Court as <em>Grant v. Higgins</em>, set for argument Dec 2.</p>
+<p><strong>Why it matters:</strong> The court called New York's law "first-of-its-kind," and this is a final judgment on the merits rather than a preliminary ruling. An appeal to the Second Circuit is expected but not yet filed (unverified), and the 14-day stay gives the State time to seek a longer one.</p>
+<p><strong>Sources:</strong> <a href="https://assets.nationbuilder.com/firearmspolicycoalition/pages/7667/attachments/original/1792596699/2026.10.21_095_OPINION.pdf?1792596699">Decision and Order, Dkt. 95 (PDF)</a> · <a href="https://www.firearmspolicy.org/heeter">FPC case page</a> · <a href="https://www.courtlistener.com/docket/68907301/heeter-v-letitia/">CourtListener docket</a> · <a href="https://x.com/2AFDN/status/2112953160033869917">SAF post</a></p>]]></description>
+      <pubDate>Wed, 21 Oct 2026 13:25:01 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261021T132501-federal-judge-strikes-down-new-york-body-armor-ban-heeter-v</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" type="image/jpeg" length="151413"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 21, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
