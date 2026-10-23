@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 08:13:55 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:25:45 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,30 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ opens Second Amendment probe of Waterbury and Middletown, Conn., carry-permit delays</title>
+      <link>https://www.justice.gov/opa/pr/justice-department-opens-investigation-alleged-firearm-permitting-abuses-two-connecticut</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" alt="Seal of the U.S. Department of Justice" width="1200" height="630"></p>
+<p><strong>DOJ opens Second Amendment pattern-or-practice probe of Waterbury and Middletown, Conn., carry-permit handling</strong> (verified, DOJ press release and notice letters dated Thu Oct 22, 2026).</p>
+<p><strong>What's new:</strong> The Justice Department's Civil Rights Division, through its Second Amendment Section, notified the City of Waterbury and the Town of Middletown and their police departments that it is investigating whether they unnecessarily delay or deny permits to carry a firearm. The probe is under 34 U.S.C. &sect; 12601 (pattern or practice of law-enforcement conduct depriving constitutional rights) and covers each department's role as local permitting authority under Conn. Gen. Stat. &sect; 29-28, including denials and adjudication delays. DOJ says it may be "unreasonably denying otherwise qualified applicants" and forcing them into "a potentially years-long appeal process." The letters say DOJ has reached no conclusions and asked each city to name a contact within five business days. AAG Harmeet Dhillon announced it on X Thursday afternoon.</p>
+<p><strong>Why it matters:</strong> This is the second municipal permit-delay investigation by the new Second Amendment Section this month, after Pennsauken, N.J. (Oct 14), and the first aimed at Connecticut. DOJ again relies on Bruen's warning against "lengthy wait times in processing license applications." If DOJ finds reasonable cause, it can publish findings, seek an agreement, or sue in federal district court. Connecticut's Board of Firearms Permit Examiners appeal backlog (1,203 pending cases as of March 2024 per a state audit, as reported by CT Insider) is the context.</p>
+<p><strong>Background, not new:</strong> The Pennsauken probe (Oct 14) and DOJ's Minnesota permit-to-purchase notice of suit (Sep 17) were briefed earlier.</p>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><a href="https://www.justice.gov/opa/pr/justice-department-opens-investigation-alleged-firearm-permitting-abuses-two-connecticut">DOJ press release (Oct 22, 2026)</a></li>
+<li><a href="https://www.justice.gov/crt/media/1467586/dl">Notice letter to Waterbury PD</a></li>
+<li><a href="https://www.justice.gov/crt/media/1467581/dl">Notice letter to Middletown PD</a></li>
+<li><a href="https://x.com/AAGDhillon/status/2113346440709775543">AAG Dhillon on X</a></li>
+<li><a href="https://steeple.news/article/justice-department-investigates-whether-waterbury-and-middletown-delay-gun-carry-permits">Steeple News coverage (Board of Firearms Permit Examiners backlog context)</a></li>
+</ul>
+<p>Note: this went out Thursday afternoon and is being flagged a day late; no ruling or filing yet, just the opening of an investigation.</p>]]></description>
+      <pubDate>Fri, 23 Oct 2026 11:25:44 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261023T112544-doj-opens-second-amendment-probe-of-waterbury-and-middletown</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" type="image/jpeg" length="97941"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 23, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
