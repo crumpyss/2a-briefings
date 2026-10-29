@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:25:34 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:27:51 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,22 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ gives Glendale, Calif. one week to cut $2,000 concealed-carry permit costs or face suit</title>
+      <link>https://x.com/AAGDhillon/status/2115537430350549338</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" alt="Seal of the U.S. Department of Justice" width="1200" height="630"></p>
+<p><strong>DOJ gives Glendale, Calif. one week to cut concealed-carry permit costs or face a lawsuit</strong></p>
+<p><strong>What's new:</strong> On Oct 28, 2026 (4:13 PM ET), Assistant Attorney General Harmeet Dhillon of the DOJ Civil Rights Division posted that the City of Glendale, California "cannot impose unconstitutional $2,000 costs to obtain a concealed carry permit" and that the Division "gave them one week to fix it," with images of the letter attached. That puts the deadline around Nov 4, 2026. (Verified: Dhillon's X post. The letter itself was seen only as images on X; no justice.gov release found yet.)</p>
+<p><strong>Details as reported by Bearing Arms (Oct 29), not independently verified:</strong> Glendale reportedly raised its CCW application fee from $100 to $1,078; with training, fingerprinting and a psychological evaluation the total approaches $2,000 for a three-year permit. The letter also reportedly says parts of Glendale's process give licensing officials open-ended discretion, making it the kind of "may-issue" scheme Bruen rejected. It was sent to the mayor, police chief and city attorney.</p>
+<p><strong>Why it matters:</strong> This is the latest action by DOJ's new Second Amendment Section against local carry-permit costs and delays. It follows DOJ's Sep 16 lawsuit over San Jose's $1,591 CCW fee and psych testing, and investigations of Pennsauken, N.J. (Oct 14) and Waterbury/Middletown, Conn. (Oct 22). Watch whether DOJ files suit after the one-week window.</p>
+<p><strong>Sources:</strong> <a href="https://x.com/AAGDhillon/status/2115537430350549338">AAG Dhillon on X (Oct 28)</a> · <a href="https://bearingarms.com/camedwards/2026/10/29/california-city-on-the-clock-after-doj-warns-of-lawsuit-over-carry-license-fees-n1234305">Bearing Arms (Oct 29)</a></p>]]></description>
+      <pubDate>Thu, 29 Oct 2026 17:27:50 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261029T172750-doj-gives-glendale-calif-one-week-to-cut-2-000-concealed-car</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" type="image/jpeg" length="97941"/>
+    </item>
     <item>
       <title>Judge refuses to enter agreed judgment striking Florida's gun waiting period (Dunn v. Glass)</title>
       <link>https://www.nraila.org/articles/20261029/district-court-declines-to-enter-agreement-to-invalidate-florida-s-waiting-period-law-in-nra-case-and-invites-amici-participation</link>
