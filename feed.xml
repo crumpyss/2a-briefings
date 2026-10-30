@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:07:32 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:49:28 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,20 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>ATF Chief Counsel Robert Leider resigns, returning to George Mason law school</title>
+      <link>https://www.atf.gov/news/press-releases/atf-chief-counsel-to-return-to-george-mason-university</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" alt="Seal of the Bureau of Alcohol, Tobacco, Firearms and Explosives" width="1200" height="630"></p>
+<p><strong>ATF Chief Counsel Robert Leider has resigned and is going back to George Mason University's Antonin Scalia Law School.</strong> ATF announced it Oct 30 at about 6:09 PM ET, saying Leider "has submitted his resignation and will return to his role as Assistant Professor of Law." ATF Director Robert Cekada posted that he "accepted the resignation" and credited Leider with leading "ATF's legal and policy work."</p>
+<p><strong>Why it matters:</strong> Leider is a Second Amendment scholar and a former clerk for Justice Thomas. He became ATF's chief counsel in March 2025, after AG Bondi fired his predecessor, Pamela Hicks. As chief counsel he oversaw ATF's legal and rulemaking work during a stretch of rule rollbacks and new NFA guidance. Neither post names a successor or a reason for his departure.</p>
+<p>Sources: <a href="https://www.atf.gov/news/press-releases/atf-chief-counsel-to-return-to-george-mason-university">ATF press release</a>, <a href="https://x.com/ATFHQ/status/2116291375691935903">ATF HQ on X</a>, <a href="https://x.com/ATFDirectorRC/status/2116289864073199707">Director Cekada on X</a></p>]]></description>
+      <pubDate>Fri, 30 Oct 2026 18:49:28 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261030T184928-atf-chief-counsel-robert-leider-resigns-returning-to-george</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" type="image/jpeg" length="104831"/>
+    </item>
     <item>
       <title>Viramontes asks to be dropped from his SCOTUS assault-weapons case; case continues</title>
       <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-238.html</link>
