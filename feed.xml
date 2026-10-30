@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:05:47 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:07:32 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,21 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Viramontes asks to be dropped from his SCOTUS assault-weapons case; case continues</title>
+      <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-238.html</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>Cutberto Viramontes is asking to be dropped as a petitioner in the Supreme Court assault-weapons case that carries his name.</strong> On Oct 29, his lawyers at Cooper &amp; Kirk filed a motion under Supreme Court Rule 46.2 (No. 25-238) asking that he alone be dismissed. The motion doesn't give a reason.</p>
+<p>The case itself keeps going. The motion says it "does not apply to any other petitioner" and that the case "remains pending as to all other petitioners." Those include the other individual plaintiffs and the Second Amendment Foundation and Firearms Policy Coalition. Grant v. Higgins (No. 25-566), the consolidated Connecticut case, isn't affected. Argument is still set for Dec 2, 2026.</p>
+<p><strong>Why it matters:</strong> Cook County's ban on so-called assault weapons is still before the Court with the remaining petitioners. One plaintiff leaving doesn't end the challenge. Whether the case's name changes is up to the Court, and it hasn't said.</p>
+<p>Source: <a href="https://www.supremecourt.gov/DocketPDF/25/25-238/431213/20261029164648469_vf%20R.46%20Dismissal%20Motion%20re%20Viramontes%20vf.pdf">Rule 46.2 motion, Oct 29, 2026</a> and <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-238.html">Supreme Court docket 25-238</a></p>]]></description>
+      <pubDate>Fri, 30 Oct 2026 12:07:32 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261030T120732-viramontes-asks-to-be-dropped-from-his-scotus-assault-weapon</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>DOJ: ATF employees will serve as Nov. 3 election monitors</title>
       <link>https://thereload.com/doj-says-atf-will-help-monitor-midterm-elections/</link>
