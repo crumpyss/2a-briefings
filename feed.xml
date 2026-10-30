@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 08:09:21 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:05:47 -0400</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,21 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ: ATF employees will serve as Nov. 3 election monitors</title>
+      <link>https://thereload.com/doj-says-atf-will-help-monitor-midterm-elections/</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" alt="Seal of the Bureau of Alcohol, Tobacco, Firearms and Explosives" width="1200" height="630"></p>
+<p><strong>DOJ says ATF employees will serve as election monitors at polling places on Nov 3.</strong> In an Oct 28 court filing in NAACP v. Dhillon, a FOIA lawsuit, DOJ Voting Section acting chief Eric Neff wrote that employees from the Bureau of Prisons, ATF and DEA "will serve as monitors."</p>
+<p>According to the filing, the monitors will be unarmed, won't wear ATF insignia (they've been told to wear business casual), and can't make arrests. DOJ says that means they won't be acting as law enforcement. They're told not to talk with voters inside polling places, but they may talk to voters outside after they vote. DOJ is declining to say where the monitors will be sent.</p>
+<p><strong>Why it matters:</strong> It's unclear whether ATF staff have ever been used for DOJ election monitoring before. Former DOJ attorney Justin Levitt called it "not normal," though he noted monitors can be removed if they disrupt or intimidate. This is a statement in a court filing, not a rule or a court order, and it doesn't change any gun law.</p>
+<p>Source: <a href="https://thereload.com/doj-says-atf-will-help-monitor-midterm-elections/">The Reload, Oct 30, 2026</a></p>]]></description>
+      <pubDate>Fri, 30 Oct 2026 12:05:46 -0400</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261030T120546-doj-atf-employees-will-serve-as-nov-3-election-monitors</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/atf-seal.jpg" type="image/jpeg" length="104831"/>
+    </item>
     <item>
       <title>2A Daily Digest – Oct 30, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
