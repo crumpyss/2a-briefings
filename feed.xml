@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 08:11:13 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:11:44 -0500</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,22 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Virginia judge extends SB 749 'assault firearm'/magazine injunction to the Commonwealth and its agencies (Crump v. Katz)</title>
+      <link>https://www.ammoland.com/2026/11/virginia-ar15-magazine-ban-injunction-expanded/</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
+<p><strong>Virginia judge extends preliminary injunction against SB 749 "assault firearm"/magazine restrictions to the Commonwealth and its agencies (Crump v. Katz)</strong></p>
+<p><strong>What's new:</strong> On Nov. 2, 2026, Lancaster County Circuit Court Judge John S. Martin entered an order in <em>Crump v. Katz</em>, No. CL26000201-00, partially granting plaintiffs' second motion to enlarge the preliminary injunction. Per the order as quoted by AmmoLand: "the Commonwealth of Virginia, its agencies and employees are hereby preliminarily enjoined subject to the same terms and duration outlined in the Preliminary Injunction entered June 30, 2026 and Order entered September 10, 2026." The motion was denied in all other respects. The Commonwealth (AAGs Calvin C. Brown and Pebbles I. Burgess) objected to the extension. The order followed an Oct. 20 hearing.</p>
+<p><strong>Why it matters:</strong> The June 30 preliminary injunction, which runs through Dec. 31, 2026 or further court action, originally bound VSP Superintendent Jeffrey Katz. Extending it to the Commonwealth, its agencies and employees keeps enforcement from shifting to other state authorities. This is still preliminary relief, not a final ruling; the order does not expressly name local sheriffs, police departments or Commonwealth's Attorneys. The challenge is brought under Va. Const. Art. I, § 13 by John Crump, GOA, GOF, VCDL and VCDF.</p>
+<p><strong>Verification:</strong> Reported by AmmoLand quoting the order. The order itself has not been independently obtained.</p>
+<p><strong>Sources:</strong> <a href="https://www.ammoland.com/2026/11/virginia-ar15-magazine-ban-injunction-expanded/">AmmoLand, Nov. 3, 2026</a> · <a href="https://law.lis.virginia.gov/constitution/article1/section13/">Va. Const. Art. I, § 13</a></p>]]></description>
+      <pubDate>Tue, 03 Nov 2026 14:11:44 -0500</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261103T141144-virginia-judge-extends-sb-749-assault-firearm-magazine-injun</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
+    </item>
     <item>
       <title>2A Daily Digest – Nov 03, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
