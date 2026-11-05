@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:12:37 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:56:05 -0500</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,22 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Cook County files Suggestion of Mootness in Viramontes SCOTUS AR-15 case (25-238)</title>
+      <link>https://www.supremecourt.gov/DocketPDF/25/25-238/431997/20261105164932316_25-238%20Suggestion%20of%20Mootness.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
+<p><strong>Verified (SCOTUS docket):</strong> On Nov. 5, 2026, Cook County respondents filed a <em>Suggestion of Mootness</em> in <em>Viramontes v. Cook County</em>, No. 25-238 (consolidated with <em>Grant v. Higgins</em>, No. 25-566), the Supreme Court AR-15 / semiautomatic-rifle ban merits case set for argument Dec. 2, 2026.</p>
+<p>The filing responds to petitioner Cutberto Viramontes’s Oct. 29 Rule 46.2 motion to dismiss himself from the case (already known). Cook County argues that if Viramontes is allowed to withdraw, no remaining petitioner has Article III standing on the question presented (“AR-15 platform and similar semiautomatic rifles”), and the Court should dismiss the case as moot or as improvidently granted.</p>
+<p>Cook County’s main points: (1) Viramontes was the individual with a concrete stake in owning an AR-15-style rifle in Cook County; (2) co-petitioner Christopher Khaya seeks an IMI Galil (AK-based), which petitioners previously said is not an AR-15-style rifle, and may not fit the QP or show self-defense standing; (3) FPC and SAF identified only Viramontes and Khaya as Cook County members for associational standing. A footnote acknowledges Grant’s consolidation means the Court could still decide the QP via that case.</p>
+<p><strong>Why it matters:</strong> This is a formal respondent attack on standing/vehicle in the lead AR-15 merits case weeks before argument. It is a party filing, not a Court order—no dismissal, DIG, or calendar change yet. Watch for petitioners’ response and any Court action on the Rule 46.2 motion or the Suggestion.</p>
+<p>Sources: <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-238.html">SCOTUS docket 25-238</a>; <a href="https://www.supremecourt.gov/DocketPDF/25/25-238/431997/20261105164932316_25-238%20Suggestion%20of%20Mootness.pdf">Suggestion of Mootness PDF</a>; <a href="https://www.scotusblog.com/cases/viramontes-v-cook-county/">SCOTUSblog case page</a>.</p>]]></description>
+      <pubDate>Thu, 05 Nov 2026 18:56:05 -0500</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261105T185605-cook-county-files-suggestion-of-mootness-in-viramontes-scotu</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
+    </item>
     <item>
       <title>DOJ Gun-Rights Restoration Portal Hits 5,000-Applicant Cap, Closed Until January 2027</title>
       <link>https://www.justice.gov/ffrr/application</link>
@@ -3077,38 +3093,6 @@ Sources:<br>
       <media:content url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
       <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" width="1200" height="630"/>
       <enclosure url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" type="image/jpeg" length="151413"/>
-    </item>
-    <item>
-      <title>2A alert: OLC says federal 18–20 handgun purchase ban (922(b)(1)/(c)(1)) unconstitutional as applied — dealers may not face criminal penalties</title>
-      <link>https://www.justice.gov/olc/media/1461811/dl</link>
-      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" alt="Seal of the U.S. Department of Justice" width="1200" height="630"></p>
-<div class="briefing">
-2A alert — DOJ Office of Legal Counsel opinion (Sep 17, 2026):<br>
-<br>
-Title: Application of 18 U.S.C. § 922(b)(1) and (c)(1) to Young Adults — Memorandum Opinion for the Attorney General.<br>
-<br>
-What it says:<br>
-• OLC concludes §§ 922(b)(1) and (c)(1) are unconstitutional as applied to law-abiding young adults ages 18–20 who seek to purchase handguns from federally licensed dealers.<br>
-• Those adults are among “the people”; handguns are arms in common use; barring FFL handgun sales burdens the right to keep and bear arms under Bruen / Wolford.<br>
-• Government cannot show a Founding-era tradition that justifies the ban.<br>
-• Dealers may not be subjected to criminal penalties for selling handguns to that class.<br>
-<br>
-Caveats (important):<br>
-• This is an OLC opinion advising DOJ on enforcement — not a court judgment striking the statute nationwide.<br>
-• Scope is handguns / FFL sales. Federal law already allows 18–20 purchases of rifles and shotguns from dealers.<br>
-• Does not by itself erase state 21+ handgun laws.<br>
-<br>
-Why it matters:<br>
-DOJ’s own Office of Legal Counsel told the Attorney General the Gun Control Act’s 21-for-handguns rule fails Bruen/Wolford for 18–20-year-olds — a major enforcement-side development in the under-21 litigation lane (Reese / McCoy / NRA v. Bondi).<br>
-<br>
-Primary: <a href="https://www.justice.gov/olc/media/1461811/dl">https://www.justice.gov/olc/media/1461811/dl</a>
-</div>]]></description>
-      <pubDate>Fri, 18 Sep 2026 12:18:53 -0400</pubDate>
-      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260918T121853-2a-alert-olc-says-federal-18-20-handgun-purchase-ban-922-b-1</guid>
-      <category>alert</category>
-      <media:content url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" width="1200" height="630"/>
-      <enclosure url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" type="image/jpeg" length="97941"/>
     </item>
   </channel>
 </rss>
