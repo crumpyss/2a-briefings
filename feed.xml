@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:03:56 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:09:15 -0500</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,24 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Sixth Circuit Upholds Federal Mental-Health Gun Ban in U.S. v. Laykovich</title>
+      <link>https://www.opn.ca6.uscourts.gov/opinions.pdf/26a0293p-06.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
+<p><strong>Sixth Circuit upholds federal mental-health gun ban, 18 U.S.C. § 922(g)(4), against a Second Amendment challenge (verified: opinion on the court's site).</strong></p>
+<p>In <em>United States v. Laykovich</em>, No. 25-5766 (6th Cir., published opinion 26a0293p.06, decided and filed Oct. 29, 2026), a panel of Judges Gibbons, Murphy and Hermandorfer affirmed a conviction under § 922(g)(4), which bars gun possession by anyone "adjudicated as a mental defective" or "committed to a mental institution." Judge Eric Murphy wrote the opinion; no dissent.</p>
+<p>The court rejected Laykovich's facial Second Amendment challenge. It held that, at least as applied to him, the ban is "relevantly similar" under <em>Bruen</em> to historical laws allowing civil detention of people whose mental illness made them dangerous, because it serves the same public-safety purpose and lasts only until he shows he no longer poses a threat. Laykovich had been involuntarily committed by a Missouri court in 2023 and was stopped in Kentucky in 2024 wearing body armor with eight firearms, en route to Fort Knox. His separate sentencing claims were also rejected.</p>
+<p><strong>Why it matters:</strong> This is a published circuit precedent keeping § 922(g)(4) enforceable in Kentucky, Michigan, Ohio and Tennessee, and it is likely to be cited in other circuits. The opinion distinguishes the Supreme Court's narrower treatment of § 922(g)(3) in <em>Hemani</em>. It did not reach how the ban applies to people with older or less clear-cut commitments. The ruling came out Oct. 29 but was first reported publicly today.</p>
+<p><strong>Sources:</strong><br>
+<a href="https://www.opn.ca6.uscourts.gov/opinions.pdf/26a0293p-06.pdf">Sixth Circuit opinion, U.S. v. Laykovich, No. 25-5766 (PDF)</a><br>
+<a href="https://thereload.com/sixth-circuit-rejects-second-amendment-challenge-to-mental-health-gun-ban/">The Reload: Sixth Circuit Rejects Second Amendment Challenge to Mental-Health Gun Ban</a></p>]]></description>
+      <pubDate>Thu, 05 Nov 2026 07:09:14 -0500</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261105T070914-sixth-circuit-upholds-federal-mental-health-gun-ban-in-u-s-v</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
+    </item>
     <item>
       <title>2A Daily Digest – Nov 04, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
