@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:28:21 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:29:55 -0500</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,31 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>DOJ files § 12601 suit vs Glendale, Calif. over ~$2,000 CCW costs (complaint only)</title>
+      <link>https://storage.courtlistener.com/recap/gov.uscourts.cacd.1047134/gov.uscourts.cacd.1047134.1.0.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" alt="Seal of the U.S. Department of Justice" width="1200" height="630"></p>
+<p><strong>What's new (as of Nov. 9, 2026 ET):</strong> The United States filed a <strong>Complaint for Declaratory and Injunctive Relief</strong> in the U.S. District Court for the <strong>Central District of California</strong> against the <strong>City of Glendale, California</strong>. The caption on the PDF is <em>United States of America v. City of Glendale, California</em>, Case No. <strong>2:26-cv-13098</strong>. The document header and RECAP docket entry identify it as <strong>Document 1</strong>, filed <strong>11/09/2026</strong> (15 pages). CourtListener’s RECAP listing describes Doc. 1 as “COMPLAINT No Fee Required – US Government,” with same-day notices of appearance also on the docket. <strong>This is a newly filed complaint—not a ruling, injunction, or settlement.</strong></p>
+
+<p><strong>Source PDF (Doc. 1):</strong> <a href="https://storage.courtlistener.com/recap/gov.uscourts.cacd.1047134/gov.uscourts.cacd.1047134.1.0.pdf">https://storage.courtlistener.com/recap/gov.uscourts.cacd.1047134/gov.uscourts.cacd.1047134.1.0.pdf</a></p>
+
+<p><strong>What the United States alleges (complaint only):</strong> DOJ’s Civil Rights Division / Second Amendment Section alleges that Glendale’s CCW licensing scheme—under Glendale PD Policy Manual provisions referenced in the complaint and California’s shall-issue baseline (e.g., Cal. Penal Code §§ 26155, 26190, 25300–26406)—imposes abusive conditions on public carry, including:</p>
+<ul>
+<li>An initial application fee of <strong>$1,078</strong> (half on filing, half after approval) and renewal fee of <strong>$826</strong>, plus fingerprinting, training/range (~$300–$435), and psychological evaluation (~$500), for alleged totals of about <strong>$2,000</strong> (initial) and <strong>$1,300</strong> (renewal every two years) (¶¶ 8, 23–28; pp. 2, 5);</li>
+<li>Additional process requirements the complaint characterizes as converting a shall-issue scheme into a discretionary one: three reference checks, social-media review, residency verification, and psychological testing (including what the complaint calls a blanket renewal psych-testing practice) (¶¶ 21, 36–38, 42–43; pp. 4, 7–9).</li>
+</ul>
+<p>The United States brings a single claim under <strong>34 U.S.C. § 12601</strong>, alleging a pattern or practice of law-enforcement conduct that deprives persons of Second Amendment rights (Claim for Relief ¶¶ 51–53; pp. 11–12). Counsel of record on the complaint include Todd Blanche (Attorney General), Jesus A. Osete (Acting AAG, Civil Rights), Barry K. Arrington (Chief, Second Amendment Section), and others; the prayer is signed Nov. 9, 2026 (p. 15).</p>
+
+<p><strong>Requested relief (not granted):</strong> The prayer asks for declaratory judgments under 28 U.S.C. § 2201 and permanent injunctive relief under Fed. R. Civ. P. 65 barring enforcement of the challenged fees and process requirements (excessive fees, onerous time investment, psychiatric exam, reference checks, social-media review, residency requirement), requiring remedial policies, identifying persons denied CCWs since the challenged provisions, inviting reapplication, and returning or destroying psych exams and social-media reviews obtained in the process (Prayer A–B; pp. 11–13). <strong>None of that relief has been ordered on this filing alone.</strong></p>
+
+<p><strong>Current posture:</strong> Per the Doc. 1 stamp and CourtListener RECAP, the case was opened Nov. 9, 2026, with the complaint and counsel appearances. No merits decision appears on that same-day docket snapshot. Claims above are the United States’ allegations.</p>]]></description>
+      <pubDate>Mon, 09 Nov 2026 17:29:54 -0500</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261109T172954-doj-files-12601-suit-vs-glendale-calif-over-2-000-ccw-costs</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/doj-seal.jpg" type="image/jpeg" length="97941"/>
+    </item>
     <item>
       <title>Texas 90R prefiling day: 19 firearm bills filed (proposals, not law)</title>
       <link>https://capitol.texas.gov/reports/Report.aspx?ID=todayfiled</link>
@@ -2952,59 +2977,6 @@ Factual digest only — not advocacy. Source links above.
       <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
       <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
       <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
-    </item>
-    <item>
-      <title>2A Digests (Wed Sep 23) — MATERIAL since prior digest: Yukutake en banc (already emailed 9/22); no further overnight change</title>
-      <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/22/21-16756.pdf</link>
-      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" alt="James R. Browning U.S. Court of Appeals Building, San Francisco — home of the Ninth Circuit" width="1200" height="630"></p>
-<div class="briefing">
-STATUS: MATERIAL_NEW since the Tue Sep 22 ~8:30 AM ET emailed digest. The material item (Ninth Circuit en banc Yukutake) was already emailed as breaking on Sep 22. No additional material overnight (weekday research through ~8:20 AM ET today).<br>
-<br>
-=== NEW SINCE PRIOR MORNING DIGEST (already briefed/emailed Sep 22) ===<br>
-<br>
-1) Ninth Circuit en banc — Yukutake v. Lopez, No. 21-16756 (filed Sep 22, 2026)<br>
-- NEW: REVERSED AND REMANDED. The en banc court vacated the district court’s permanent injunction against Hawaii’s 30-day handgun-permit use window (Haw. Rev. Stat. § 134-2(e)) and post-acquisition police inspection/registration (§ 134-3). Majority (Judge Owens) treated the rules as modest shall-issue procedural burdens consistent with Bruen n.9. Dissents: R. Nelson, Forrest, VanDyke.<br>
-- Why it matters: Major Ninth Circuit en banc ruling restoring Hawaii’s permit-use window and inspection/registration rules after a Bruen-era injunction.<br>
-- Opinion PDF: <a href="https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/22/21-16756.pdf">https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/22/21-16756.pdf</a><br>
-- Ammoland: <a href="https://www.ammoland.com/2026/09/ninth-circuit-yukutake-hawaii-gun-purchase-restrictions/">https://www.ammoland.com/2026/09/ninth-circuit-yukutake-hawaii-gun-purchase-restrictions/</a><br>
-- Bearing Arms (Cam Edwards): <a href="https://bearingarms.com/camedwards/2026/09/22/ninth-circuit-reverses-course-upholds-hawaiis-bizarre-gun-purchasing-restrictions-n1233894">https://bearingarms.com/camedwards/2026/09/22/ninth-circuit-reverses-course-upholds-hawaiis-bizarre-gun-purchasing-restrictions-n1233894</a><br>
-- Hawaii Governor release: <a href="https://governor.hawaii.gov/newsroom/2026-56-ninth-circuit-upholds-hawai%ca%bbi-firearm-licensing-requirements/">https://governor.hawaii.gov/newsroom/2026-56-ninth-circuit-upholds-hawai%ca%bbi-firearm-licensing-requirements/</a><br>
-- Star-Advertiser (Sep 23 coverage, not a new ruling): <a href="https://www.staradvertiser.com/2026/09/23/hawaii-news/gun-permit-window-inspection-mandate-upheld/">https://www.staradvertiser.com/2026/09/23/hawaii-news/gun-permit-window-inspection-mandate-upheld/</a><br>
-<br>
-=== BACKGROUND / NO FURTHER CHANGE ===<br>
-<br>
-- Prior Tue morning digest already covered Glock Inc. + NSSF D. Conn. suits (filed Sep 21) challenging Conn. HB 5043 / Pub. Act 26-41 convertible-pistol ban (effective Oct 1, 2026). No PI/TRO ruling found overnight.<br>
-- No new SCOTUS regular or miscellaneous order lists Sep 18–23 (latest regular still 09/04/26; latest misc still 09/17/26).<br>
-- Johnson v. Jacobson, No. 26-255: still DISTRIBUTED for Conference of 9/28/2026. (Sep 22 amicus submission by Huang Tiange and Corey Biazzo is non-material docket noise.)<br>
-&nbsp; Docket: <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-255.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-255.html</a><br>
-- Novotny v. Moore, No. 25-1324: still DISTRIBUTED for Conference of 9/28/2026.<br>
-&nbsp; Docket: <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html</a><br>
-- Calce v. City of New York, No. 26-46: Response Requested Sep 8, 2026 (due Oct 8, 2026).<br>
-&nbsp; Docket: <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-46.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-46.html</a><br>
-- Viramontes v. Cook County, No. 25-238 (with Grant, No. 25-566): still SET FOR ARGUMENT Wednesday, Dec 2, 2026. SG motion for leave to participate in oral argument as amicus / divided argument still pending (filed Sep 9). Sep 21 record-received is clerical only.<br>
-&nbsp; Docket: <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-238.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-238.html</a><br>
-- Christian v. James, No. 26-374: petition filed; response due Oct 19, 2026.<br>
-&nbsp; Docket: <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-374.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-374.html</a><br>
-- CA AB 2047 (firearms: 3D-printing blocking technology): House Location still Governor; Enrolled 09/04/26 — no chapter/veto yet.<br>
-&nbsp; Bill status: <a href="https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2047">https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2047</a><br>
-<br>
-=== LIVE WATCHES / DEADLINES ===<br>
-<br>
-- SCOTUS Conference of Mon Sep 28, 2026: Johnson 26-255; Novotny 25-1324<br>
-- Conn. HB 5043 / Pub. Act 26-41 effective Oct 1, 2026 (Glock/NSSF PI/TRO watch)<br>
-- Calce 26-46 response due Oct 8, 2026<br>
-- Christian 26-374 response due Oct 19, 2026<br>
-- Viramontes/Grant oral argument Wed Dec 2, 2026<br>
-- CA AB 2047 on the Governor’s desk (enrolled 09/04/26)<br>
-<br>
-Factual digest only — not advocacy. Source links above.
-</div>]]></description>
-      <pubDate>Wed, 23 Sep 2026 08:43:06 -0400</pubDate>
-      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260923T084306-2a-digests-wed-sep-23-material-since-prior-digest-yukutake-e</guid>
-      <category>digest</category>
-      <media:content url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" width="1200" height="630"/>
-      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ca9-james-r-browning-courthouse.jpg" type="image/jpeg" length="133963"/>
     </item>
   </channel>
 </rss>
