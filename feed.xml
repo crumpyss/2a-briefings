@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:31:17 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:38:17 -0500</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,24 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>CORRECTION: Ohio House passes Sub. SB 214 on suppressors and short-barreled firearms; back to Senate for concurrence (not law yet)</title>
+      <link>https://www.legislature.ohio.gov/legislation/136/sb214</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" alt="U.S. Capitol, west front" width="1200" height="630"></p>
+Correction to Crump Alert #185, which said Sub. S.B. 214 had only been reported by the House Public Safety Committee. The Ohio House of Representatives passed Sub. S.B. 214 on Tuesday, Nov. 10, 2026, after the committee reported the substitute bill that morning.
+
+What it does: Sen. Kyle Koehler's bill removes firearm suppressors (mufflers) from Ohio's "dangerous ordnance" classification. The House substitute also removes sawed-off / short-barreled firearms from that classification and deletes the R.C. 2923.11(F) "sawed-off firearm" definition, aligning state law with federal law.
+
+Where it stands: The Senate passed the original bill 31-1 on March 25, 2026. Because the House changed it, the bill now returns to the Senate for a concurrence vote, and then would go to Gov. Mike DeWine. It is not law yet. Federal NFA requirements are unchanged by this state bill.
+
+Source: Ohio General Assembly, S.B. 214 (136th GA): https://www.legislature.ohio.gov/legislation/136/sb214]]></description>
+      <pubDate>Tue, 10 Nov 2026 16:38:16 -0500</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261110T163816-correction-ohio-house-passes-sub-sb-214-on-suppressors-and-s</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" type="image/jpeg" length="157809"/>
+    </item>
     <item>
       <title>Ohio House committee reports Sub. SB 214 on suppressors and sawed-off firearms (not law)</title>
       <link>https://www.legislature.ohio.gov/legislation/136/sb214</link>
@@ -2906,17 +2924,6 @@ SOURCES<br>
       <media:content url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
       <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" width="1200" height="630"/>
       <enclosure url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" type="image/jpeg" length="171946"/>
-    </item>
-    <item>
-      <title>2A Briefings feed launched</title>
-      <link>https://youtube.com/johncrumpnews</link>
-      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" alt="Judge's gavel on a courtroom bench" width="1200" height="630"></p>
-This feed carries John Crump's material 2A alerts as they break and the daily digest, with primary sources linked.]]></description>
-      <pubDate>Fri, 25 Sep 2026 15:06:57 -0400</pubDate>
-      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260925T150657-2a-briefings-feed-launched</guid>
-      <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
-      <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
     </item>
   </channel>
 </rss>
