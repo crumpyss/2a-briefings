@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:38:17 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:38:31 -0500</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,24 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Ohio SB 214 clears legislature: Senate concurs, suppressor and short-barreled firearm bill heads to Gov. DeWine (not law until signed)</title>
+      <link>https://www.legislature.ohio.gov/legislation/136/sb214</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" alt="U.S. Capitol, west front" width="1200" height="630"></p>
+Update to Crump Alerts #185 and #186. After the Ohio House passed Sub. S.B. 214 on Tuesday, Nov. 10, 2026, the Ohio Senate concurred in the House changes the same day. The bill now goes to Gov. Mike DeWine for his signature.
+
+What it does: Sen. Kyle Koehler's bill removes firearm suppressors (mufflers) from Ohio's "dangerous ordnance" classification. The House version also removes sawed-off / short-barreled firearms from that classification and deletes the R.C. 2923.11(F) "sawed-off firearm" definition, aligning state law with federal law.
+
+Where it stands: Passed by both chambers. It is not law until the governor signs it (or it otherwise takes effect under Ohio law), and it would take effect on its effective date after that. Federal NFA requirements are unchanged by this state bill.
+
+Source: Ohio General Assembly, S.B. 214 (136th GA): https://www.legislature.ohio.gov/legislation/136/sb214]]></description>
+      <pubDate>Tue, 10 Nov 2026 16:38:30 -0500</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261110T163830-ohio-sb-214-clears-legislature-senate-concurs-suppressor-and</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" type="image/jpeg" length="157809"/>
+    </item>
     <item>
       <title>CORRECTION: Ohio House passes Sub. SB 214 on suppressors and short-barreled firearms; back to Senate for concurrence (not law yet)</title>
       <link>https://www.legislature.ohio.gov/legislation/136/sb214</link>
@@ -2902,25 +2920,6 @@ SOURCES<br>
       <pubDate>Sat, 26 Sep 2026 08:15:38 -0400</pubDate>
       <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260926T081538-2a-daily-digest-sep-26-2026</guid>
       <category>digest</category>
-      <media:content url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" width="1200" height="630"/>
-      <enclosure url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" type="image/jpeg" length="171946"/>
-    </item>
-    <item>
-      <title>Maryland judge orally denies PI in Bathras convertible-pistol ban case</title>
-      <link>https://foxbaltimore.com/news/local/ag-brown-on-ruling-keeping-marylands-machine-gun-convertible-pistol-law-in-place-glock-ban</link>
-      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" alt="Maryland State House, Annapolis" width="1200" height="630"></p>
-<p><strong>Bathras v. Moore (D. Md.)</strong> — Judge Richard D. Bennett <strong>orally denied</strong> plaintiffs’ motions for a preliminary injunction on Friday, Sep 25, 2026, after the hearing on Maryland’s restrictions on “machine gun convertible pistols” (SB 334 / Glock-style cruciform-trigger-bar ban). Maryland AG Anthony G. Brown publicly stated the ruling keeps the law in place; a written opinion and order are expected to follow. The law’s Jan 1, 2027 effective date is not frozen pending further litigation.</p>
-<p><strong>Why it matters:</strong> First merits PI outcome in the consolidated Maryland convertible-pistol challenges; the ban remains on track unless a later written order or appeal changes that.</p>
-<p><strong>Sources:</strong></p>
-<ul>
-<li>FOX Baltimore (WBFF) with AG Brown statement (posted ~5:24 PM ET Sep 25): <a href="https://foxbaltimore.com/news/local/ag-brown-on-ruling-keeping-marylands-machine-gun-convertible-pistol-law-in-place-glock-ban">foxbaltimore.com</a></li>
-<li>CourtListener docket (hearing-held minute only so far; no written order posted yet): <a href="https://www.courtlistener.com/docket/73394533/bathras-v-moore/">courtlistener.com/docket/73394533</a></li>
-</ul>
-<p><em>Verified:</em> oral denial via AG Brown’s public statement and local TV. <em>Not yet on the docket:</em> written opinion/order (CourtListener last updated Sep 25, 2026, 5:23 p.m.). Keep monitoring for the written order.</p>]]></description>
-      <pubDate>Fri, 25 Sep 2026 19:26:23 -0400</pubDate>
-      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260925T192623-maryland-judge-orally-denies-pi-in-bathras-convertible-pisto</guid>
-      <category>alert</category>
       <media:content url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
       <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" width="1200" height="630"/>
       <enclosure url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" type="image/jpeg" length="171946"/>
