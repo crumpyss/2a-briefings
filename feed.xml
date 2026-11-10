@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:32:38 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:31:17 -0500</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,26 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>Ohio House committee reports Sub. SB 214 on suppressors and sawed-off firearms (not law)</title>
+      <link>https://www.legislature.ohio.gov/legislation/136/sb214</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" alt="U.S. Capitol, west front" width="1200" height="630"></p>
+<p><strong>What's new (as of Nov. 10, 2026 ET):</strong> The Ohio House Public Safety Committee held a third hearing today on Sen. Kyle Koehler’s <strong>S.B. 214</strong> (136th General Assembly, 2025–2026). The official legislature site now lists the current version as <strong>Sub. S.B. 214, As Reported by the House Public Safety Committee</strong>. The Nov. 10 House calendar had the bill up for third consideration at 2:00 p.m. marked “Pending Committee Report.” As of this check, official votes and the LIS bill record still show <strong>no House floor vote</strong>, no “As Passed by the House” text, no Senate concurrence, and no presentation to or signature by Gov. DeWine. <strong>The bill is not law.</strong></p>
+
+<p><strong>What the House-reported substitute would do:</strong> Its long title is “to amend sections 1533.04, 2923.11, 2923.12, and 2923.17 of the Revised Code to remove firearm mufflers and suppressors and sawed-off firearms from the classification of dangerous ordnance.” Compared with the Senate-passed text (which addressed mufflers/suppressors only), the House substitute also strikes “sawed-off firearm” from the R.C. 2923.11 “dangerous ordnance” definition, deletes the 2923.11(F) definition of “sawed-off firearm,” and makes conforming edits, including striking the hunting-law proviso in R.C. 1533.04 that had tied suppressor use while hunting to state/federal authorization and National Firearms Act registration, and striking a related R.C. 2923.17 exemption. The committee hearing materials list amendment <strong>AM_136_3310</strong> (sponsored in the LIS record by Rep. Kevin D. Miller).</p>
+
+<p><strong>Prior official actions:</strong> Introduced in the Senate June 3, 2025; reported by Senate Armed Services, Veterans Affairs and Public Safety on March 11, 2026 (5–0 favorable); <strong>passed the Senate March 25, 2026, 31–1</strong> (Sen. Beth Liston voting no); introduced in the House March 31, 2026; referred to House Public Safety on May 13, 2026. Earlier House hearings were June 2 and June 9, 2026.</p>
+
+<p><strong>Caveats:</strong> Because the House committee changed the Senate bill, House floor passage would still have to be followed by Senate concurrence before the measure could go to the Governor. This is a proposed change to Ohio’s dangerous-ordnance classification, not a change to federal law. The Legislative Service Commission’s as-introduced analysis of the suppressor provisions noted that, even if Ohio no longer treated a muffler or suppressor as dangerous ordnance, federal National Firearms Act registration would still be required.</p>
+
+<p><strong>Sources:</strong> <a href="https://www.legislature.ohio.gov/legislation/136/sb214">Ohio Legislature – S.B. 214 (136th GA)</a>; <a href="https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb214/03_RH/pdf/">As Reported by House Public Safety Committee (PDF)</a>; <a href="https://ohiohouse.gov/legislation/136/sb214/votes">official votes</a>; <a href="https://ohiohouse.gov/committees/public-safety/meetings/cmte_h_pub_safety_1_2026-11-10-0945_1489">Nov. 10 Public Safety hearing</a>.</p>]]></description>
+      <pubDate>Tue, 10 Nov 2026 16:31:17 -0500</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261110T163117-ohio-house-committee-reports-sub-sb-214-on-suppressors-and-s</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/us-capitol-west-front.jpg" type="image/jpeg" length="157809"/>
+    </item>
     <item>
       <title>2d Cir. in Mills partly vacates dismissal of NYC handgun-rule challenges; affirms fees and standing</title>
       <link>https://ww3.ca2.uscourts.gov/decisions/OPN/24-3308_opn.pdf</link>
@@ -2897,70 +2917,6 @@ This feed carries John Crump's material 2A alerts as they break and the daily di
       <media:content url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
       <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" width="1200" height="630"/>
       <enclosure url="https://crumpyss.github.io/2a-briefings/images/courtroom-gavel.jpg" type="image/jpeg" length="61502"/>
-    </item>
-    <item>
-      <title>Daily 2A digest — Fri Sep 25: material already briefed (Novotny Rescheduled); no further change</title>
-      <link>https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html</link>
-      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" alt="U.S. Supreme Court building, Washington, D.C." width="1200" height="630"></p>
-<div class="briefing">
-Daily 2A digest — Friday, Sep 25, 2026 (ET)<br>
-Coverage window: since Thu Sep 24 ~8:28 AM ET emailed digest<br>
-Verified / factual only — not advocacy.<br>
-<br>
-STATUS: MATERIAL_NEW already emailed yesterday evening — no additional material overnight/this morning.<br>
-<br>
-Already emailed ~6:35–6:37 PM ET Thu Sep 24 (not re-news):<br>
-Novotny v. Moore, No. 25-1324 (Maryland carry / sensitive-places challenge) — SCOTUS docket entry Sep 24, 2026 “Rescheduled.” The petition had been DISTRIBUTED for Conference of 9/28/2026 (with reply Distributed Sep 2). “Rescheduled.” removes it from that conference slate; there is no new conference date or disposition on the docket. Await later redistribution before treating as conference-ready again.<br>
-Docket: <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html</a><br>
-<br>
-Checked since that breaking send (~8:10 AM ET weekday research; rechecked ~8:20 AM ET for this mailed digest) — no further material change:<br>
-• No SCOTUS regular or miscellaneous order lists for Sep 24 or Sep 25 (404 on those dated lists). Latest regular Order List remains Fri Sep 4, 2026; latest misc still Wed Sep 23, 2026 (Ramey v. Texas only — not 2A).<br>
-&nbsp; Orders index: <a href="https://www.supremecourt.gov/orders/ordersofthecourt/25">https://www.supremecourt.gov/orders/ordersofthecourt/25</a><br>
-• Novotny 25-1324 — still only the Sep 24 “Rescheduled.” entry; no redistribution, new conference date, or disposition. Last-Modified bumped overnight (~8:12 PM ET Sep 24) with content unchanged.<br>
-• Johnson 26-255 — still DISTRIBUTED for Conference of 9/28/2026 (unchanged).<br>
-• Calce 26-46, Viramontes/Grant, Beckwith — no new merits/disposition moves overnight (see watches).<br>
-• No new ATF/DOJ substantive rulemaking or major federal/state gun legislation flagged overnight beyond items already on the watch list.<br>
-<br>
-Also noted since prior morning digest (procedural; not treated as separate breaking):<br>
-Beckwith v. Frey, No. 26-258 (Maine 72-hour waiting period) — Sep 24, 2026 docket: Waiver of right of respondent Aaron M. Frey to respond filed. SAF/NRA amicus remains Sep 22. Response had been due Sep 28; waiver is procedural toward conference consideration, not a grant/deny.<br>
-Docket: <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-258.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-258.html</a><br>
-<br>
---- LIVE WATCHES / DEADLINES (background unless noted) ---<br>
-<br>
-1) SCOTUS Conference — Mon Sep 28, 2026<br>
-&nbsp;&nbsp; - Johnson v. Jacobson, No. 26-255 — still DISTRIBUTED for Conference of 9/28/2026.<br>
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-255.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-255.html</a><br>
-&nbsp;&nbsp; - Novotny v. Moore, No. 25-1324 — OFF that slate (Sep 24 “Rescheduled.”); await redistribution. Already briefed Thu evening.<br>
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-1324.html</a><br>
-<br>
-2) Calce v. City of New York, No. 26-46 — Response Requested Sep 8, 2026 (due Oct 8, 2026). Earlier Distributed for 9/28; Response Requested still governs.<br>
-&nbsp;&nbsp; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-46.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-46.html</a><br>
-<br>
-3) Viramontes v. Cook County, No. 25-238 (with Grant v. Higgins, No. 25-566) — still SET FOR ARGUMENT Wednesday, Dec 2, 2026 (CIRCULATED Sep 18). Respondents’ merits briefs due Oct 21, 2026 (extension). SG divided-argument motion still pending (filed Sep 9).<br>
-&nbsp;&nbsp; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-238.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-238.html</a><br>
-&nbsp;&nbsp; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-566.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25-566.html</a><br>
-<br>
-4) Beckwith v. Frey, No. 26-258 — petition filed Aug 25; SAF/NRA amicus Sep 22; respondent waiver Sep 24. Watch for distribution/conference listing.<br>
-&nbsp;&nbsp; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-258.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-258.html</a><br>
-<br>
-5) Christian, No. 26-374 — response due Oct 19, 2026. Unchanged.<br>
-&nbsp;&nbsp; <a href="https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-374.html">https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-374.html</a><br>
-<br>
-6) Conn. HB 5043 / Pub. Act 26-41 (convertible-pistol ban) — effective Oct 1, 2026. Glock Inc. + NSSF D. Conn. suits (filed Sep 21) still pending; no PI/TRO ruling found. Already briefed Sep 22.<br>
-<br>
-7) CA AB 2047 (firearms: 3D-printing blocking technology) — still Active Bill–Enrolled; on Governor’s desk (presented 09/14/26). No chaptered/veto posting found this morning.<br>
-&nbsp;&nbsp; <a href="https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2047">https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2047</a><br>
-<br>
-Already briefed earlier (not re-news): Novotny Rescheduled (Thu PM); Ninth Circuit en banc Yukutake v. Lopez (21-16756, Sep 22); Glock/NSSF Connecticut suits; DOJ/OLC 18–20 handgun memo; Elite Precision Customs (5th Cir. Sep 18).<br>
-<br>
-Factual digest only — not advocacy. Source links above.
-</div>]]></description>
-      <pubDate>Fri, 25 Sep 2026 08:19:04 -0400</pubDate>
-      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260925T081904-daily-2a-digest-fri-sep-25-material-already-briefed-novotny</guid>
-      <category>digest</category>
-      <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
-      <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
     </item>
   </channel>
 </rss>
