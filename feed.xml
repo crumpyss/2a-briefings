@@ -5,7 +5,7 @@
     <link>https://youtube.com/johncrumpnews</link>
     <description>Factual Second Amendment news briefings: court cases, legislation, ATF/DOJ rulemaking. Material alerts as they break plus the daily digest, with sources.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 08:00:07 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:32:38 -0500</lastBuildDate>
     <atom:link href="https://crumpyss.github.io/2a-briefings/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://crumpyss.github.io/2a-briefings/images/channel-logo.jpg</url>
@@ -14,6 +14,36 @@
       <width>144</width>
       <height>76</height>
     </image>
+    <item>
+      <title>2d Cir. in Mills partly vacates dismissal of NYC handgun-rule challenges; affirms fees and standing</title>
+      <link>https://ww3.ca2.uscourts.gov/decisions/OPN/24-3308_opn.pdf</link>
+      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" alt="New York State Capitol, Albany" width="1200" height="630"></p>
+<p><strong>What's new (as of Nov. 10, 2026 ET):</strong> The U.S. Court of Appeals for the Second Circuit today issued a published opinion in <em>Mills v. New York City</em>, No. <strong>24-3308-cv</strong> (argued Nov. 18, 2025; decided Nov. 10, 2026). The panel—Circuit Judges <strong>Raggi, Livingston, and Park</strong>, opinion by Judge <strong>Reena Raggi</strong>—reviewed a Dec. 5, 2024 judgment of the Southern District of New York (Rakoff, J.) that dismissed, in full, a complaint raising Second Amendment challenges to New York City handgun rules. Disposition: <strong>AFFIRMED IN PART; VACATED AND REMANDED IN PART</strong>. There is no separate concurrence or dissent. This is an appeal from a motion-to-dismiss judgment—not a preliminary-injunction ruling and not a final merits holding that any challenged rule is unconstitutional.</p>
+
+<p><strong>Opinion:</strong> <a href="https://ww3.ca2.uscourts.gov/decisions/OPN/24-3308_opn.pdf">https://ww3.ca2.uscourts.gov/decisions/OPN/24-3308_opn.pdf</a></p>
+
+<p><strong>Vacated and remanded (Bruen step one only):</strong> The court held that three challenges should not have been dismissed under Fed. R. Civ. P. 12(b)(6) at <em>Bruen</em> step one, because the regulated conduct is covered by the Second Amendment’s plain text (or, for the waiting period, “meaningfully constrain[s]” that right). Those claims are remanded for <em>Bruen</em> step two—whether the City can show consistency with the Nation’s historical tradition of firearm regulation. The court expressly did <strong>not</strong> decide that the rules are unconstitutional, and it declined to predict how step two will come out (slip op. at 3–4, 28–29, 38–40 &amp; n.20):</p>
+<ul>
+<li>38 R.C.N.Y. § 5-22(a)(7) — limit of one handgun carried on the person at a time;</li>
+<li>N.Y.C. Admin. Code § 10-302.1(a)–(b) — 90-day limit on acquiring more than one handgun;</li>
+<li>38 R.C.N.Y. § 5-25(d)(4) (repealed 2024) — former limit of two handguns registered on a carry license (the City told the district court the 2024 replacement no longer strictly imposes that cap; the remanded claim concerns the repealed rule).</li>
+</ul>
+
+<p><strong>Affirmed:</strong></p>
+<ul>
+<li><strong>Fees:</strong> Dismissal of the challenge to N.Y.C. Admin. Code § 10-131(a)(2) handgun application/renewal ($340) and fingerprinting ($88.50) fees is affirmed under <em>Kwong v. Bloomberg</em>, 723 F.3d 160 (2d Cir. 2013). The court treated <em>Kwong</em> as still controlling after <em>Bruen</em> and held these plaintiffs failed to state a claim that the fees exceed administrative costs or are “exorbitant” so as to deny ordinary citizens the right to public carry (slip op. at 35–38).</li>
+<li><strong>Standing:</strong> Dismissal for lack of jurisdiction (Rule 12(b)(1)) is affirmed as to the purchase-authorization rules (38 R.C.N.Y. §§ 5-22(a)(9), 5-25(a), (c)), the handgun-registration rule (§ 5-22(a)(8)), and dealer reporting requirements tied to the 90-day limit (Admin. Code § 10-302.1(c)–(e)), for failure to plead a cognizable injury-in-fact. A handgun-disposal claim dismissed below was not pursued on appeal and is not reviewed (slip op. at 9–11, 38).</li>
+</ul>
+
+<p><strong>Caveat:</strong> Remand requires historical analysis in the district court; the circuit’s footnote notes that the district court’s earlier remark that the claims would “likely fail” at step two was “more suggestive than conclusory” (n.20). No law is “struck down” by this decision.</p>
+<p><strong>Source:</strong> <a href="https://ww3.ca2.uscourts.gov/decisions/OPN/24-3308_opn.pdf">2d Cir. opinion, <em>Mills v. New York City</em>, No. 24-3308-cv (Nov. 10, 2026)</a>.</p>]]></description>
+      <pubDate>Tue, 10 Nov 2026 14:32:37 -0500</pubDate>
+      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20261110T143237-2d-cir-in-mills-partly-vacates-dismissal-of-nyc-handgun-rule</guid>
+      <category>alert</category>
+      <media:content url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
+      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" width="1200" height="630"/>
+      <enclosure url="https://crumpyss.github.io/2a-briefings/images/ny-state-capitol.jpg" type="image/jpeg" length="151413"/>
+    </item>
     <item>
       <title>2A Daily Digest – Nov 10, 2026</title>
       <link>https://youtube.com/johncrumpnews</link>
@@ -2931,43 +2961,6 @@ Factual digest only — not advocacy. Source links above.
       <media:content url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
       <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" width="1200" height="630"/>
       <enclosure url="https://crumpyss.github.io/2a-briefings/images/scotus-supreme-court-building.jpg" type="image/jpeg" length="200938"/>
-    </item>
-    <item>
-      <title>2A breaking — SCOTUS Novotny 25-1324 Rescheduled (off Conf 9/28)</title>
-      <link>https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html</link>
-      <description><![CDATA[<p class="feed-image"><img src="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" alt="Maryland State House, Annapolis" width="1200" height="630"></p>
-<div class="briefing">
-2A breaking update — Thursday, Sep 24, 2026 ~6:35 PM ET<br>
-Verified — SCOTUS public docket. Factual only; not advocacy.<br>
-<br>
-STATUS: MATERIAL_NEW<br>
-<br>
-WHAT IS NEW<br>
-Novotny v. Moore, No. 25-1324 (Maryland carry / sensitive-places challenge) — SCOTUS docket now shows a Sep 24, 2026 entry: “Rescheduled.”<br>
-<br>
-It had been DISTRIBUTED for Conference of 9/28/2026 (distribution + reply Distributed Sep 2). “Rescheduled” means it will not be considered at that September 28 conference. No new conference date is listed yet; the case typically waits for a later redistribution.<br>
-<br>
-Docket (official): <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html">https://www.supremecourt.gov/docket/docketfiles/html/public/25-1324.html</a><br>
-Page Last-Modified: Thu, 24 Sep 2026 22:00:16 GMT (~6:00 PM ET) — after the ~5:26 PM ET hourly check that still showed DISTRIBUTED for 9/28.<br>
-<br>
-WHY IT MATTERS<br>
-Novotny was one of two live Second Amendment petitions on the September 28 conference list. Taking it off that conference delays any cert grant/deny/relist decision. Johnson v. Jacobson, No. 26-255 (Minnesota out-of-state carry reciprocity) remains DISTRIBUTED for Conference of 9/28/2026 (unchanged).<br>
-<br>
-NOT NEW / UNCHANGED (checked same window)<br>
-- No SCOTUS order list dated 09/24/2026 (092426zor/zr PDFs 404). Latest regular Order List still 09/04/26; latest miscellaneous still 09/23/26.<br>
-- Calce v. City of New York, No. 26-46 — still Response Requested Sep 8 (due Oct 8).<br>
-- Viramontes v. Cook County, No. 25-238 / Grant v. Higgins, No. 25-566 — still SET FOR ARGUMENT Wednesday, Dec 2, 2026 (CIRCULATED Sep 18).<br>
-- CA AB 2047 — still Active Bill–Enrolled / at Governor (presented Sep 14); no sign/veto in status check.<br>
-- No new ATF Federal Register rule docs today; DOJ FR hits since Sep 20 are routine ATF information-collection notices (Sep 22), not NFA/Hendrix appeal filings.<br>
-<br>
-Verified vs unverified: Rescheduled entry and last-modified are verified on the SCOTUS docket HTML.
-</div>]]></description>
-      <pubDate>Thu, 24 Sep 2026 18:37:00 -0400</pubDate>
-      <guid isPermaLink="false">tag:crumpyss.github.io,2026:20260924T183700-2a-breaking-scotus-novotny-25-1324-rescheduled-off-conf-9-28</guid>
-      <category>alert</category>
-      <media:content url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" medium="image" type="image/jpeg" width="1200" height="630"/>
-      <media:thumbnail url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" width="1200" height="630"/>
-      <enclosure url="https://crumpyss.github.io/2a-briefings/images/md-state-house.jpg" type="image/jpeg" length="171946"/>
     </item>
   </channel>
 </rss>
